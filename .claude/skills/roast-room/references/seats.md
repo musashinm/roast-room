@@ -49,6 +49,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Leila | `council-leila` | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? | `brains/leila-hormozi/` |
 | Elon | `council-musk` | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? | `brains/elon-musk/` |
 | Godin | `council-godin` | Marketing to the smallest viable audience | Who exactly is this for, and will they tell others? | `brains/seth-godin/` |
+| Lemkin | `council-lemkin` | B2B sales and SaaS growth | Can you sell this repeatedly, and what does the first sales team look like? | `brains/jason-lemkin/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -58,6 +59,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Elon's aggressive dates are for the team, not for customers or lenders; Martell and Leila own what his pace costs the people.
 - Godin (pick the smallest group that would be enough, earn trust, let them tell the others) against Gary V (attention at volume on the underpriced platform) and Hormozi (offers, closing, and paid lead flow). Godin and Sara agree on word of mouth over ads and split on whether the product or the audience comes first.
 - Godin (never race to the bottom, price is a story) against any seat cutting price to win volume; Buffett and Hormozi own the unit economics he does not run.
+- Lemkin (founder sells first, then two reps, then a VP of Sales who lifts revenue in one cycle) against Godin (let a small audience tell the others) and Hormozi (one great offer closes anyone). Lemkin and Martell agree on hiring early and split on whether the next hire buys back founder time or sells.
+- Lemkin (venture growth bars: triple, triple, double, double) against Buffett (cash first, no growth bought at any price); Lemkin defers to Buffett on runway and downside.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.

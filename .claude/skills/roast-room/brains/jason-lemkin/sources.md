@@ -1,0 +1,101 @@
+# Sources: Jason Lemkin
+
+95 sources (45 web, 50 video), 793,815 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | If You Sell Your Company, You’ll Either Feel Like A Used Car Salesman: Or Like Hugo From “Lost” | https://www.saastr.com/if-you-sell-your-company-youll-either-feel-like-a-used-car-salesman-or-like-hugo/ | 2012-09-28 | 882
+- S002 | A Little Less About Pricing. A Little More About Deal Size. Please. | https://www.saastr.com/a-little-less-about-pricing-a-little-more-about-deal-size-please/ | 2012-10-31 | 1078
+- S003 | Yes, You Can Measure Everything. Marketing, PR, Dev, Lead Efficiency. Do It. | https://www.saastr.com/yes-you-can-measure-everything-marketing-pr-dev-lead-efficiency-do-it/ | 2012-11-28 | 1054
+- S004 | What a Great VP Sales Actually Does. Where The Magic Is. And When to Hire One. | https://www.saastr.com/what-a-vp-sales-actually-does-where-the-magic-is-and-when-to-hire-one/ | 2013-02-12 | 2076
+- S005 | When Are You Ready to Hire Pure BigCo Folks Into Your Start-Up? | https://www.saastr.com/when-are-you-ready-to-hire-pure-bigco-guys-into-your-start-up/ | 2013-07-01 | 1210
+- S006 | Around $4-$5m in ARR, You Probably Will Need a Chief MRR Officer | https://www.saastr.com/around-4-5m-in-arr-you-probably-will-need-a-chief-mrr-officer/ | 2013-12-04 | 1123
+- S007 | 22 Critical Tips in Hiring a Great VP Marketing (From Marketo, EchoSign, Insightly) | https://www.saastr.com/22-saastr-videos-how-to-hire-a-great-vp-marketing/ | 2014-05-21 | 947
+- S008 | The Next Wave of SMB SaaS: True Solutions. Priced as Such. | https://www.saastr.com/the-next-wave-of-smb-saas/ | 2014-07-07 | 3056
+- S009 | How to Sell to SMBs And Still Get to $100m in ARR | https://www.saastr.com/how-to-sell-to-smbs-and-still-get-to-100m-in-arr/ | 2015-06-24 | 1977
+- S010 | Is $300m ARR the New $100m? | https://www.saastr.com/is-300m-the-new-100m-arr/ | 2015-11-05 | 1063
+- S011 | Hacking Demo Days like an SDR | https://www.saastr.com/hacking-demo-days-like-an-sdr/ | 2016-03-03 | 1001
+- S012 | As Long As We Have 20-30 SaaS Decacorns by 2021 … All Is Good | https://www.saastr.com/as-long-as-we-have-20-30-saas-decacorns-by-2021-all-is-good/ | 2016-11-21 | 1186
+- S013 | SaaStr Crosses 30,000,000 Views on Quora! (15x Growth in 36 Months) | https://www.saastr.com/saastr-crosses-30000000-views-on-quora/ | 2017-01-06 | 1431
+- S014 | 50,000,000+ Views Later: What I’ve Learned About Content Marketing | https://www.saastr.com/50000000-views-later-what-ive-learned-about-content-marketing/ | 2017-04-10 | 2910
+- S015 | What You Want to Hit: 50+20 at 10 (million in ARR) | https://www.saastr.com/want-achieve-50-20-10-million-arr/ | 2017-07-18 | 1732
+- S016 | Can You Scale Sales in the Bay Area? $30k ACV is Probably The Cut-Off | https://www.saastr.com/can-scale-sales-bay-area-30k-acv-probably-cut-off/ | 2018-02-28 | 931
+- S017 | Squeezing Out That Last 10%-20% Growth | https://www.saastr.com/squeezing-last-10-20-growth/ | 2018-05-18 | 745
+- S018 | It’s Time To Start Getting an Uber/Lyft Rating for Sales Reps. And Paying Them Based On It. | https://www.saastr.com/its-time-to-start-getting-an-uber-lyft-rating-for-sales-reps-and-paying-them-based-on-it/ | 2018-11-14 | 969
+- S019 | Silos-in-the-Enterprise: Good. But Not All They Are Cracked Up to Be. | https://www.saastr.com/silos-in-the-enterprise-good-but-not-all-they-are-cracked-up-to-be/ | 2019-10-12 | 1457
+- S020 | A SaaStr Deep Dive on The Top Pitfalls From $1m to $10m ARR | https://www.saastr.com/great-session-on-the-pitfalls-from-1m-to-10m-arr/ | 2019-12-12 | 13043
+- S021 | It Might Be Time for You to Add a VP of Free (Updated) | https://www.saastr.com/blog-the-customer-that-needs-a-champion-your-free-customers/ | 2020-03-21 | 1155
+- S022 | How To Onboard New Hires Now | https://www.saastr.com/how-to-onboard-new-hires-now/ | 2020-04-24 | 1127
+- S023 | Curse of the ‘Middlers’: Why Happiness Officers Can’t Stand In for True Sales Professionals | https://www.saastr.com/curse-of-the-middlers-why-happiness-officers-cant-stand-in-for-true-sales-professionals/ | 2020-07-27 | 1983
+- S024 | What Makes a Great VP of Sales and How to Hire One: The Complete Guide | https://www.saastr.com/a-basic-structure-for-a-vp-sales-comp-plan-the-505025/ | 2021-02-11 | 4807
+- S025 | The 48 Types of VP Sales. Make Deadly Sure You Hire the Right One. | https://www.saastr.com/the-48-types-of-vp-sales-make-deadly-sure-you-hire-the-right-one/ | 2021-02-25 | 3615
+- S026 | The Best Founders Are (Somehow) Indefatigable | https://www.saastr.com/indefatigable/ | 2021-05-22 | 1788
+- S027 | A Basic Structure for a VP, Sales Comp Plan: 50/50/25+ (Updated) | https://www.saastr.com/a-basic-structure-for-a-vp-sales-comp-plan-50-50-25/ | 2022-05-02 | 2095
+- S028 | The Top 20+ SaaStr Surveys On Freemium, Discounts, Paid Pilots, Raising Prices, And Much More | https://www.saastr.com/the-top-20-saastr-polls-on-freemium-discounts-and-much-more/ | 2022-05-27 | 1800
+- S029 | A Framework For Your First SaaS Sales Comp Plan | https://www.saastr.com/a-framework-and-some-ideas-for-your-first-sales-comp-plan/ | 2022-09-05 | 7300
+- S030 | All Your VPs Really Need to Do is Tilt the Curve | https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/ | 2023-03-31 | 1359
+- S031 | 30+ SaaS CEOs Share The Signs Their First VP of Sales … Just Wasn’t Going to Work Out (Updated) | https://www.saastr.com/30-saas-ceos-share-the-signs-their-first-vp-of-sales-just-wasnt-going-to-work-out/ | 2023-07-22 | 3133
+- S032 | Hiring Your VPs: When Can You Compromise? (UPDATED) | https://www.saastr.com/hiring-your-vps-when-can-you-compromise/ | 2023-09-25 | 1457
+- S033 | The $2 Million(*) Dollar Man/Woman: How to Think About Scaling Your Customer Success Team (Updated) | https://www.saastr.com/the-2-million-dollar-man-woman-how-to-think-about-scaling-your-customer-success-team/ | 2024-02-02 | 4936
+- S034 | Try Micromilestones to Push Through Slower Growth: The 2024 Edition | https://www.saastr.com/growing-but-too-slowly-try-micromilestones/ | 2024-03-15 | 1538
+- S035 | The First $100,000,000 ARR at Datadog: How Founder CEO Olivier Pomel Built a Customer-Centric Monitoring Giant | https://www.saastr.com/the-first-100000000-arr-at-datadog-how-founder-ceo-olivier-pomel-built-a-customer-centric-monitoring-giant/ | 2025-11-07 | 3884
+- S036 | Stop Looking For Sales Magicians | https://www.saastr.com/stop-looking-for-sales-magicians/ | 2025-11-14 | 2748
+- S037 | 6 Months of AI SDRs: What’s Worked, How They Brought In $1M+ in 90 Days, and the Real Data Everyone’s Asking For | https://www.saastr.com/6-months-of-ai-sdrs-whats-worked-how-they-brought-in-1m-in-90-days-and-the-real-data-everyones-asking-for/ | 2025-11-20 | 5219
+- S038 | The First $100,000,000 ARR at Ramp: How CEO Eric Glyman and CTO Karim Atiyah Built a $30B+ Finance Platform Through Asymmetric Bets | https://www.saastr.com/the-first-100000000-arr-at-ramp-how-ceo-eric-glyman-and-cto-karim-atiyah-built-a-finance-platform-through-asymmetric-bets/ | 2025-11-21 | 2968
+- S039 | The First $100,000,000 ARR at UiPath: How Founder CEO Daniel Dines Went From 10 Years of Struggle to Hypergrowth | https://www.saastr.com/the-first-100000000-arr-at-uipath-how-founder-ceo-daniel-dines-built-an-ai-and-automation-giant-from-bucharest/ | 2025-11-28 | 4383
+- S040 | The 2026 Sales Reckoning: Why Your Traditional Sales Team Is About To Look Very Different | https://www.saastr.com/the-2026-sales-reckoning-why-your-traditional-sales-team-is-about-to-look-very-different/ | 2025-12-04 | 2932
+- S041 | The Boomerang Founders: Why UiPath and Workday’s Creators Had to Come Back: And Who’s Next | https://www.saastr.com/the-boomerang-founders-why-uipath-and-workdays-creators-had-to-come-back-and-whos-next/ | 2026-02-26 | 3329
+- S042 | If You Are at Scale, You Now Have 2 Full-Time Jobs: Keep Your Installed Base Happy. And Winning the AI Agent War in Your Space. | https://www.saastr.com/if-you-are-at-scale-you-now-have-2-full-time-jobs-keep-your-installed-base-happy-and-win-the-ai-agent-war-in-your-space/ | 2026-04-25 | 4350
+- S043 | Why 10K (Our AI VP Marketing) and QBee (Our AI VP Customer Success) Work So Well: The App and the Agent Are One System | https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/ | 2026-05-20 | 3546
+- S044 | The 3 New Pricing Models in B2B. Pick One, Because The Old One (Just Seats) Really is Dying | https://www.saastr.com/the-3-new-pricing-models-in-b2b-pick-one-because-the-old-one-just-seats-is-dying/ | 2026-08-25 | 3454
+- S045 | The Agent-Led Growth Playbook: A 10-Minute Inbound Booking, a 46-of-50 AEO Score, and Why First-Party Data Beats Every Signal Tool / The Agents #017 | https://www.saastr.com/the-agent-led-growth-playbook-a-10-minute-inbound-booking-a-46-of-50-aeo-score-and-why-first-party-data-beats-every-signal-tool-the-agents-017/ | 2026-10-24 | 3422
+- S046 | Building a world-class sales org / Jason Lemkin (SaaStr) | https://www.youtube.com/watch?v=eMe_FWldQF0 | 2024-02-18 | 16027
+- S047 | We replaced our sales team with 20 AI agents: here’s what happened next / Jason Lemkin (SaaStr) | https://www.youtube.com/watch?v=I-R1bc1rlFs | 2026-01-01 | 22474
+- S048 | “Godfather of SaaS” Jason Lemkin shares his Saastr community, criteria for investing & what’s next | https://www.youtube.com/watch?v=jF6WXpum8PI | 2015-11-20 | 21675
+- S049 | A Deep Dive on What Works in SaaS Sales, and Doesn't With Jason + Aircall's Ex-VP of Sales | https://www.youtube.com/watch?v=MDaMyekN-B4 | 2022-08-25 | 20333
+- S050 | Selling EchoSign to Adobe and Founding SaaStr w/ Jason Lemkin | https://www.youtube.com/watch?v=9Bmjz8C4j90 | 2021-02-28 | 20343
+- S051 | Jason Lemkin: Predictions for 2024 - What Does a Trump Administration do for Startups? / E1099 | https://www.youtube.com/watch?v=Yzt_o-eD_0Q | 2024-01-04 | 19847
+- S052 | Jason Lemkin: Why Pricing is Worse Than Ever and There is More Funding Than Ever / E1157 | https://www.youtube.com/watch?v=AgTyf4Xh3GU | 2024-05-27 | 19236
+- S053 | Jason Lemkin: PluralSight S*** the Bed & The Next IPO Candidates / E1160 | https://www.youtube.com/watch?v=6IM-yO1gZOE | 2024-06-03 | 17799
+- S054 | Jason Lemkin: Cold Email Tips; Why Only 15% of Founders Listen to their VCs / 20VC #954 | https://www.youtube.com/watch?v=_zWgcl5aQs0 | 2022-11-30 | 17050
+- S055 | Replacing Your Sales Team with AI Agents (Jason Lemkin, Founder & CEO @ SaaStr) | https://www.youtube.com/watch?v=5e_UizLGpjw | 2025-12-16 | 18392
+- S056 | Our Agents Drove Our Salesforce Bill Up 80%, Marketo Hates Agents, and We Stealth-Churned Off Notion | https://www.youtube.com/watch?v=ygKYj3aPvew | 2026-04-29 | 16485
+- S057 | Managing 20+ AI Agents: Lazy Agents, Our $500K AI Bill, Stealth Churn & the Death of 60% Solutions | https://www.youtube.com/watch?v=v6Y73wT0eFY | 2026-04-22 | 16349
+- S058 | How Jason Lemkin Built SaaStr | https://www.youtube.com/watch?v=eYmNgzXxkWo | 2024-04-16 | 15978
+- S059 | SaaS Masterclass - From $0-$10M ARR with Jason M. Lemkin | https://www.youtube.com/watch?v=1EfNoBLk2TE | 2018-06-21 | 15422
+- S060 | SaaS multiple compression, downturn outlook & advice for new VCs with Jason Lemkin of SaaStr / E1461 | https://www.youtube.com/watch?v=U10kdcQWC_4 | 2022-05-16 | 15305
+- S061 | E1147: "Godfather of SaaS" Jason Lemkin on 2020's cloud software boom / Rising Stars of SaaS 8 | https://www.youtube.com/watch?v=RfOTR6PDd48 | 2020-12-02 | 14531
+- S062 | How Agents Will Steal Your Customers. Plus: The $10K App Our Agent Replaced and the $14 Migration | https://www.youtube.com/watch?v=utdNZItYwMA | 2026-07-17 | 14975
+- S063 | AMA with SaaStr's Jason Lemkin on Hiring Your First VP Sales, VC Capital Today, and More!! | https://www.youtube.com/watch?v=QZEGlT7ERrY | 2023-12-21 | 13420
+- S064 | 10 Things to Know Before You Deploy Your First AI SDR | https://www.youtube.com/watch?v=B-2OMCcB-io | 2026-03-18 | 13724
+- S065 | We Built an AI VP of Customer Success That Replaced Hundreds of Human Hours. Here's Exactly How. | https://www.youtube.com/watch?v=6aCJnZxlu3g | 2026-04-08 | 13947
+- S066 | Scaling a Successful SaaS Sales Team w/ 20VC Founder Harry Stebbings and SaaStr Founder Jason Lemkin | https://www.youtube.com/watch?v=74FG1WYAHjk | 2021-11-30 | 13340
+- S067 | The Top 10 Mistakes I See In The VP of Sales Hiring Process These Days with Jason Lemkin | https://www.youtube.com/watch?v=mbZLH_P7V14 | 2023-11-23 | 13778
+- S068 | AI and the Death of the 2021 Sales Playbook - SaaStr AI LDN AMA with Jason Lemkin | https://www.youtube.com/watch?v=EysImkzpN2g | 2025-12-02 | 13005
+- S069 | Workshop Wednesday: LIVE with SaaStr CEO and Founder Jason Lemkin | https://www.youtube.com/watch?v=ji8mYoAGGjU | 2022-12-22 | 13877
+- S070 | Fireside Chat with Jason Lemkin, Founder @ SaaStr | https://www.youtube.com/watch?v=fVckRPSUG-U | 2022-12-13 | 13012
+- S071 | FounderLine Episode 27 - Jason Lemkin of Storm Ventures and SaaStr | https://www.youtube.com/watch?v=2soC59sXsBY | 2015-05-28 | 13383
+- S072 | SaaStr AI Day Live: The State of AI + Software with Jason Lemkin | https://www.youtube.com/watch?v=nyEzgLZ8oEo | 2025-10-09 | 12025
+- S073 | E19: AI Just Changed the Rules of SAAS with Jason Lemkin | https://www.youtube.com/watch?v=g6AkNyzcraY | 2025-08-18 | 12282
+- S074 | AI, Sales + GTM in 2026: This Changes Everything with Jason Lemkin and Owner CRO Kyle Norton | https://www.youtube.com/watch?v=9oLxWRF9Uys | 2025-05-28 | 12462
+- S075 | AI + B2B in 2026: Find the Tailwinds or Get Left Behind / Jason Lemkin | https://www.youtube.com/watch?v=RZYUn_ExLBY | 2026-01-02 | 11228
+- S076 | The Present and Future of AI in Sales and GTM with SaaStr's CEO and Owner's CRO | https://www.youtube.com/watch?v=0Jq8dnz8x9o | 2026-01-21 | 12550
+- S077 | Top 10 Go To Market Mistakes Founders Make Again … and Again with SaaStr’s Jason Lemkin | https://www.youtube.com/watch?v=7igT_vZGxsA | 2024-07-05 | 11623
+- S078 | What CEOs Actually Want From Their VP of Marketing / Jason Lemkin, SaaStr | https://www.youtube.com/watch?v=PJttm3FlAhQ | 2026-10-07 | 12949
+- S079 | E663: Jason Lemkin shares the early indicators of hyper-growth SaaS & his investment strategies | https://www.youtube.com/watch?v=ieO8fA-xw14 | 2016-08-02 | 11511
+- S080 | Jason Lemkin, SaaStr - The Top 10 Things You Can Do To Get to $10M ARR Faster | https://www.youtube.com/watch?v=occueOsPJk8 | 2019-09-17 | 11186
+- S081 | How to Hire a Great First VP of Sales | https://www.youtube.com/watch?v=9oYNI0w_Rfg | 2020-11-05 | 11925
+- S082 | July 2014 NY Enterprise Technology Meetup - Jason Lemkin keynote on Hiring Your VP of Sales | https://www.youtube.com/watch?v=lY6Fy570J_8 | 2014-07-30 | 11544
+- S083 | SaaStr Jason Lemkin on How to Scale from $1M to $10M+ Annual Revenue | https://www.youtube.com/watch?v=9dl1Zqpm15c | 2019-12-11 | 11318
+- S084 | Agents Didn't Kill Sales. They Just Exposed It with SaaStrAI CEO and Founder Jason Lemkin | https://www.youtube.com/watch?v=ASWZHVpblA0 | 2026-07-08 | 10603
+- S085 | How Jason Lemkin Built the World’s Largest Community for Business Software with Jason Lemkin | https://www.youtube.com/watch?v=f1TKVw4Tp4Y | 2023-08-16 | 11776
+- S086 | #107: Build an Enterprise Software Startup: Jason Lemkin, SaaStr | https://www.youtube.com/watch?v=DH5uPmH7mNs | 2015-04-17 | 8128
+- S087 | How to Sell into the Enterprise and Close Bigger Deals with CXO Talk | https://www.youtube.com/watch?v=gT4fJm-KPT8 | 2022-09-06 | 9283
+- S088 | Jason Lemkin y por qué prefiere ser CEO que VC (ENG) - Podcast #60 | https://www.youtube.com/watch?v=_WaMOfgjYzU | 2018-10-29 | 10022
+- S089 | The 5-Step Process To Build & Sell A $100M Business / ft. Jason Lemkin | https://www.youtube.com/watch?v=Q8AJUt-Bl_4 | 2024-04-10 | 9608
+- S090 | How to Hire a Great VP of Sales Today with SaaStr CEO Jason Lemkin | https://www.youtube.com/watch?v=YvK1BC7mhiw | 2024-09-19 | 9278
+- S091 | Why The Era of Efficient Growth is Now: The State of the Market with SaaStr CEO Jason Lemkin | https://www.youtube.com/watch?v=h1Hpag6gnOI | 2023-06-16 | 8899
+- S092 | From Outbound to Channel Partnerships: Your Burning Sales Questions Answered by Jason Lemkin | https://www.youtube.com/watch?v=iOzakOkHsVI | 2024-12-13 | 8813
+- S093 | How To Hire Your VP Of Sales / Jason Lemkin | https://www.youtube.com/watch?v=kvtKjt7VXHM | 2014-03-31 | 6959
+- S094 | How To Hire Your First VP Of Sales -- The Original Edition | https://www.youtube.com/watch?v=xE908IVqpQ0 | 2021-02-04 | 6800
+- S095 | Is The Classic GTM Playbook Really Dead? with SaaStr CEO and Founder Jason Lemkin | https://www.youtube.com/watch?v=hf-9gRbsRBY | 2025-10-05 | 9137
