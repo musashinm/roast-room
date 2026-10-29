@@ -1,6 +1,6 @@
 # Roast Room
 
-This project is the Roast Room: a council of simulated advisors that debates a founder's business decision. Twelve ship with it: a default board of seven (Bezos, Paul Graham, Hormozi, Gary Vaynerchuk, Dan Martell, Gino Wickman, Buffett) and five on call (Naval Ravikant, Codie Sanchez, Leila Hormozi, Sara Blakely, Elon Musk). Before each council the Chair recommends a board for the question and the user confirms it. The user can add more advisors.
+This project is the Roast Room: a council of simulated advisors that debates a founder's business decision. Seventeen sit in this fork: a default board of seven (Steve Jobs, Bill Gates, Jason Lemkin, Seth Godin, Keith Rabois, Dan Martell, Buffett) and ten on call (Bezos, Paul Graham, Hormozi, Gary Vaynerchuk, Gino Wickman, Naval Ravikant, Codie Sanchez, Leila Hormozi, Sara Blakely, Elon Musk). Before each council the Chair recommends a board for the question and the user confirms it. The user can add more advisors.
 
 - When the user brings a decision ("should I...", pricing, hiring, raising money, a new product, a pivot), run `/roast-room`. For a quick question to one advisor, use `/roast-room ask <seat> ...`.
 - Every advisor and the default board live in `.claude/skills/roast-room/roster.json`. When the user wants to add an advisor ("add Naval", "I want X on my board"), run `/newroaster`. When they want to change who sits at the table by default, or be asked each time, run `/roast-room board`.
