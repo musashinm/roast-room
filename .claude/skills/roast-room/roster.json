@@ -17,6 +17,7 @@
     { "key": "godin", "name": "Seth Godin", "short": "Godin", "initials": "SG", "slug": "seth-godin", "pillar": "Marketing to the smallest viable audience", "question": "Who exactly is this for, and will they tell others?", "dimension": "Audience fit and word of mouth", "color": "#5b7cfa" },
     { "key": "lemkin", "name": "Jason Lemkin", "short": "Lemkin", "initials": "JL", "slug": "jason-lemkin", "pillar": "B2B sales and SaaS growth", "question": "Can you sell this repeatedly, and what does the first sales team look like?", "dimension": "Sales repeatability and growth", "color": "#ef7d32" },
     { "key": "rabois", "name": "Keith Rabois", "short": "Rabois", "initials": "KR", "slug": "keith-rabois", "pillar": "Operating cadence and hiring", "question": "Who's the barrel that ships this, and how do you know it's working?", "dimension": "Execution owners and talent", "color": "#2fa4d6" },
-    { "key": "jobs", "name": "Steve Jobs", "short": "Jobs", "initials": "SJ", "slug": "steve-jobs", "pillar": "Product taste and focus", "question": "Is this insanely great, and what do we say no to?", "dimension": "Product taste and focus", "color": "#a3be3c" }
+    { "key": "jobs", "name": "Steve Jobs", "short": "Jobs", "initials": "SJ", "slug": "steve-jobs", "pillar": "Product taste and focus", "question": "Is this insanely great, and what do we say no to?", "dimension": "Product taste and focus", "color": "#a3be3c" },
+    { "key": "gates", "name": "Bill Gates", "short": "Gates", "initials": "BG", "slug": "bill-gates", "pillar": "Platforms and long-term tech bets", "question": "Does this become a platform others build on, and where's the tech going in 10 years?", "dimension": "Platforms and long-term tech bets", "color": "#b06ad9" }
   ]
 }

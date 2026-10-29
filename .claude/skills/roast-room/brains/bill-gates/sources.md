@@ -1,0 +1,79 @@
+# Sources: Bill Gates
+
+73 sources (3 web, 67 video, 3 local), 608,200 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Interview with Bill Gates | https://web.archive.org/web/2008/http://americanhistory.si.edu/collections/comphist/gates.htm | 1993-11 | 24645
+- S002 | Bill Gates' Web Site - Columns | https://web.archive.org/web/20010126005200/http://www.microsoft.com/billgates/columns/1996essay/essay960103.asp | 1996-01-03 | 1080
+- S003 | Bill Gates: Trustworthy Computing | https://www.wired.com/2002/01/bill-gates-trustworthy-computing/ | 2002-01-15 | 1633
+- S005 | Microsoft PDC 1992 keynote with Bill Gates | https://www.youtube.com/watch?v=0kRPlbLhgrg | 1992-07 | 8136
+- S006 | Bill Gates - Microsoft Key Note 1991 | https://www.youtube.com/watch?v=dXP6tKIEWKw | 1991-05 | 7382
+- S007 | Bill Gates - COMDEX 1990 (Complete Presentation) | https://www.youtube.com/watch?v=uGA1Chm_8RE | 1990-11 | 7774
+- S008 | The Road Ahead - Bill Gates Comdex Keynote 1995 | https://www.youtube.com/watch?v=o0O0Xjpjvfc | 1995-11 | 8610
+- S009 | Bill Gates - PDC Keynote 1998 | https://www.youtube.com/watch?v=pBDFH293Gx4 | 1998-09 | 7803
+- S010 | ICT Bill Gates 1998 keynote comdex 1998 | https://www.youtube.com/watch?v=HoVFwMnEUHA | 1998-11 | 10019
+- S011 | CES 2005 - Microsoft Keynote - Bill Gates | https://www.youtube.com/watch?v=5vjge2kDml4 | 2005-01 | 14050
+- S012 | CES 2006 - Microsoft Keynote - Bill Gates | https://www.youtube.com/watch?v=4ch1Owsn6QY | 2006-01 | 16581
+- S013 | CES 2007 - Microsoft Keynote - Bill Gates | https://www.youtube.com/watch?v=kb_64DJogmk | 2007-01 | 11430
+- S014 | CES 2008 - Microsoft Keynote - Bill Gates | https://www.youtube.com/watch?v=nknxWKLgKfw | 2008-01 | 9348
+- S015 | Computer History: Rare Talk-  Bill Gates on Competition, Lotus, IBM and the future of Microsoft 1987 | https://www.youtube.com/watch?v=BXGJEHEj-KA | 1987 | 3375
+- S016 | Bill Gates, Chairman & CEO, Microsoft Corporation, 4/18/95 | https://www.youtube.com/watch?v=2OvuLMeB8vA | 1995-04-18 | 11646
+- S017 | Bill Gates, Chairman, Microsoft Corporation | https://www.youtube.com/watch?v=XHvorgzTiek | 2010-11 | 11005
+- S018 | Bill Gates, Chair of the Board, Breakthrough Energy Ventures | https://www.youtube.com/watch?v=-PYffdGJw8Q | 2019-06 | 8431
+- S019 | Bill Gates, Chairman and Chief Software Architect of Microsoft, in Conversation With John Hennessy | https://www.youtube.com/watch?v=6dpSy8nklsQ | 2004 | 10945
+- S020 | [FULL HD] Bill Gates interview (1996) | https://www.youtube.com/watch?v=73BMnrnQcVg | 1996-11 | 9656
+- S022 | Bill Gates Interview - 7/22/1991 | https://www.youtube.com/watch?v=veuUyWcIbNY | 1991-07-22 | 4673
+- S023 | Wired Interviews Bill Gates 1996 | https://www.youtube.com/watch?v=VFFlO7yBIBM | 1996 | 6882
+- S024 | Bill Gates: Starting the Digital Revolution | https://www.youtube.com/watch?v=H1PgccykclM | 2025 | 4438
+- S025 | A conversation with Bill Gates | https://www.youtube.com/watch?v=9eXyFokrfzY | 2025-02 | 13583
+- S026 | Bill Gates: A.I. ‘Makes Nuclear Weapons Look Like Nothing’ / The Ezra Klein Show | https://www.youtube.com/watch?v=A_156w0aYtU | 2026-09 | 12411
+- S027 | Bill Gates says to prepare for 20 years of tumultuous AI disruption | https://www.youtube.com/watch?v=A0kTUP7fWtk | 2026-10 | 11463
+- S028 | Bill Gates says it’s ‘not enough to have a kill switch’ for AI: Full interview | https://www.youtube.com/watch?v=AbMxbgIahtE | 2026-09 | 4621
+- S029 | Stanford HAI 2019: Keynote with Bill Gates | https://www.youtube.com/watch?v=Bdaq-KlyfLQ | 2019-03-18 | 7896
+- S031 | Building Infrastructure For Resilience:  A Fireside Chat With Bill Gates / SFF 2020 | https://www.youtube.com/watch?v=eASVSwNJMfQ | 2020-12 | 4686
+- S032 | Bill Gates on the World Ahead | https://www.youtube.com/watch?v=hpeph8AHqoY | 2020-09 | 4228
+- S033 | Bill Gates Changes His Mind on AI | https://www.youtube.com/watch?v=U4zGLSlLo5A | 2026-08 | 4954
+- S034 | Bill Gates, Part 2: Microsoft at 50, and the next big opportunities for AI and innovation | https://www.youtube.com/watch?v=IBFMeIpqPp8 | 2025-02 | 3986
+- S035 | Bill Gates, Part 1: His remarkable upbringing, and outlook on the world today | https://www.youtube.com/watch?v=dMmmqehd-tg | 2025-02 | 6948
+- S036 | The David Rubenstein Show: Microsoft Co-Founder Bill Gates | https://www.youtube.com/watch?v=KlV0fyDC3Gc | 2016 | 4381
+- S037 | Bill Gates on The David Rubenstein Show | https://www.youtube.com/watch?v=zPclQ5GLQFM | 2019 | 3737
+- S038 | BILL GATES REVEALS: "I Was Wrong About Success…" | https://www.youtube.com/watch?v=pBRSZBtirAk | 2025-02 | 14287
+- S039 | Fireside Chat with Bill Gates on The Future: AI, Energy, Next Generation Institutions and Mentorship | https://www.youtube.com/watch?v=t3p9Koy98Nw | 2023-04 | 10369
+- S040 | Extended interview: Bill Gates on AI, Trump's aid cuts, the closing of his foundation and more | https://www.youtube.com/watch?v=u1b9hHclQD4 | 2025-05 | 5302
+- S041 | Brave New Words - Bill Gates & Sal Khan | https://www.youtube.com/watch?v=3VYj__vmm6Y | 2024-05 | 4486
+- S042 | Episode 2: Sal Khan shares how AI will make a difference in education | https://www.youtube.com/watch?v=X2oF8oZopdA | 2023-08 | 5492
+- S043 | Episode 6: OpenAI CEO Sam Altman on the future of AI | https://www.youtube.com/watch?v=PkXELH6Y2lM | 2024-01 | 5450
+- S044 | Bill Gates on AI and the rapidly evolving future of computing | https://www.youtube.com/watch?v=bHb_eG46v2c | 2023-03 | 7375
+- S045 | Bill Gates, Satya Nadella & Steve Ballmer on Microsoft in the AI Era / The Circuit with Emily Chang | https://www.youtube.com/watch?v=egeqfUGiETY | 2025-04 | 7590
+- S046 | Code Break 5.0: Simulations and Data with Bill Gates | https://www.youtube.com/watch?v=fv5g9xw_jek | 2020-04 | 11535
+- S047 | Competitiveness and Innovation on the Committee's 50th Anniversary with Bill Gates of Microsoft | https://www.youtube.com/watch?v=Ko5K2055x64 | 2008-03-12 | 12067
+- S048 | Bill Gates Unplugged: On Software, Innovation, Entrepreneurship and Giving Back | https://www.youtube.com/watch?v=nsonKu4STzM | 2008-03 | 14881
+- S049 | The Opportunity Ahead: A Conversation with Bill Gates | https://www.youtube.com/watch?v=o7gCn8zBh04 | 2011-10 | 9770
+- S050 | Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children / FO335 Raj Shamani | https://www.youtube.com/watch?v=xAt1xcC6qfM | 2025-03 | 5697
+- S051 | Bill Gates on possibility, AI, and humanity | https://www.youtube.com/watch?v=KeGYI69sWvw | 2024-10 | 10491
+- S053 | Ever the futurist, Bill Gates finally looks back / All Things Considered / NPR | https://www.youtube.com/watch?v=KgG_otymarI | 2025-02 | 3642
+- S054 | Bill Gates Talks About the Future of Energy | https://www.youtube.com/watch?v=IsRlN1oDm60 | 2012 | 7997
+- S055 | Bill Gates: How to Avoid a Climate Disaster | https://www.youtube.com/watch?v=3ApqgjPFe70 | 2021-03 | 9834
+- S056 | Bill Gates: The innovations we need to avoid a climate disaster / TED Countdown | https://www.youtube.com/watch?v=rhNxDp8e7p8 | 2021-03 | 6868
+- S057 | A Conversation with Bill Gates: How to Avoid a Climate Disaster | https://www.youtube.com/watch?v=9kZJa2e_RTM | 2021-02 | 9476
+- S058 | Energy Investments Dialogue / Bill Gates / Global Energy Forum | https://www.youtube.com/watch?v=d1EB1zsxW0k | 2018 | 5527
+- S059 | Bill Gates and Breakthrough Energy: Accelerating viability at the SOSV Climate Tech Summit | https://www.youtube.com/watch?v=wz5eEnnTuKY | 2021-10 | 3380
+- S060 | Bill Gates Harvard Commencement Address 2007 | https://www.youtube.com/watch?v=zPx5N6Lh3sw | 2007-06-07 | 3871
+- S061 | Back to School 2017 - Warren Buffett and Bill Gates at Columbia University | https://www.youtube.com/watch?v=RCU5crgxC_4 | 2017-01-27 | 13256
+- S062 | Warren Buffett / Bill Gates / Lecture / University Of Washington / 1998 | https://www.youtube.com/watch?v=R8VBTd2R9nE | 1998-05 | 9553
+- S063 | Warren Buffett / Bill Gates / Lecture / University Of Nebraska / 2005 | https://www.youtube.com/watch?v=1AlPTiJrJnE | 2005-09 | 10037
+- S064 | Keeping America Great with Warren Buffett and Bill Gates | https://www.youtube.com/watch?v=6AiojvXHXnY | 2009-11 | 7654
+- S065 | Warren Buffett with Bill and Melinda Gates I Charlie Rose I 2006 | https://www.youtube.com/watch?v=OHnUGwrDeyU | 2006-06 | 9845
+- S066 | Steve Jobs and Bill Gates Together at D5 Conference 2007 | https://www.youtube.com/watch?v=wvhW8cp15tk | 2007-05-30 | 15761
+- S067 | Bill Gates on AI, Elon Musk & Why 2050 Climate Goals Still Possible | https://www.youtube.com/watch?v=5CLwNnpNGxc | 2024-07 | 3829
+- S068 | Bill Gates Unplugged | https://www.youtube.com/watch?v=6b6DEUM5Gbw | 2008-02 | 7815
+- S069 | A Q&A Audience With Bill Gates | https://www.youtube.com/watch?v=Edhd9WIIpmY | 2013-05 | 9874
+- S070 | Bill Gates Keynote | https://www.youtube.com/watch?v=IxEyABixRnc | 2009 | 5412
+- S071 | Bill Gates on Software Breakthroughs & Computer Science Education - MIT 2004 | https://www.youtube.com/watch?v=ozfGHONpdTA | 2004-02 | 12697
+- S072 | Microsoft Research  Faculty Summit 2005 &#151;  Microsoft and Academia: A Dialog | https://www.youtube.com/watch?v=u_KUwxTv6Aw | 2005-07 | 13728
+- S073 | A Conversation with Bill Gates Hosted by Eric Horvitz | https://www.youtube.com/watch?v=wdy3EBBRsJA | 2019-07 | 6830
+- S074 | Bill Gates & Dean Lloyd Minor in a Fireside Chat / StanfordMed LIVE: 21 October 2020 | https://www.youtube.com/watch?v=6IUCPEDuj1A | 2020-10-21 | 9072
+- S076 | The Age of AI has begun (Gates Notes) | local file | 2023-03-21 | 3781
+- S077 | AI is about to completely change how you use computers (Gates Notes) | local file | 2023-11-09 | 3593
+- S078 | The Internet Tidal Wave (memo to Microsoft executives) | local file | 1995-05-26 | 7640
