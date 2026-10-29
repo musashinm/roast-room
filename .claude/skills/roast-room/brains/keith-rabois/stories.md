@@ -1,0 +1,43 @@
+# Stories: Keith Rabois
+
+Built from the eleven extraction batches over 89 sources. 20 stories and cases he reuses to teach, most-told first, with the lesson he draws. Source ids in parentheses. Where tellings disagree on a detail, both ids are given.
+
+1. **The smoothie test.** At Square he wanted cold smoothies delivered to engineers at 9 pm. Staff and HR failed for weeks; a 19-year-old intern, Taylor Francis, got it right on his second day, and Rabois kept handing him bigger work: "And I later gave him almost everything to do." (S007) He learned the test from David Sacks (S067). Lesson: a trivial first task shows who is a barrel, so widen their scope fast (S006, S007, S026, S030, S056, S067).
+
+2. **The jog with Peter Thiel.** In his first week at PayPal, on a run around Stanford, Thiel told him a startup cannot win by competing for the talent big companies already know how to price, and that PayPal would have no general managers, only promoted practitioners. Rabois calls it "the driving force of my career" (S038). Lesson: hire undiscovered talent and promote by craft; he says it then took years to learn how to find and manage it (S006, S012, S038, S082).
+
+3. **PayPal near death in 2000.** He joined in November 2000 with the company burning about $10 million a month after three CEOs in a few months. The cash left differs by telling: "less than six weeks of cash left" (S004) versus "less than three months of cash in the bank" (S009). Thiel got it to break-even within months and it went public in 2002. Separately, PayPal's $100 million round closed days before the March 2000 crash because Thiel pushed to close fast. Lesson: the line between success and failure is thin, so speed and focus decide it (S004, S009, S028, S042, S050, S070).
+
+4. **Square made approval instant.** Merchant accounts took two to four weeks with credit checks and store visits; Square approved about 93 percent instantly and refused to launch until underwriting was right. About 1 percent of people who saw a Square in use signed up the next day, a real-world viral loop that ran on word of mouth for about 18 months. Lesson: collapse a slow gate and the market opens; he reused the template at Opendoor and OpenStore (S003, S004, S025, S032, S034, S053, S071, S081).
+
+5. **Ramp's seed and first board meeting.** The founders pitched off rough notes with no deck; he offered a term sheet within a day. At the first board he saw a card shipped in about three months where he had never seen under nine, a meeting spent reviewing candidates ten deep per role, and a CEO who could market, so Founders Fund preempted the Series A. Lesson: speed, talent density, and marketing instinct show before traction (S007, S013, S019, S032, S034, S039, S049, S053, S073).
+
+6. **Board meeting to board meeting.** Roelof Botha told him Square's tempo matched PayPal's: a problem raised at one board meeting was fixed and measured by the next. Delian saw the same at Fair's second board meeting. Botha's warning stuck: "velocity occasionally decays but it never improves" (S037). Lesson: speed compounds and must be protected early (S007, S012, S019, S037).
+
+7. **Where barrels came from.** Founders kept telling him they doubled the team after a raise and got less done; others said they now ship every quarter where five people used to ship daily. Lesson: throughput is set by barrels, not headcount (S007, S032, S055).
+
+8. **Opendoor waited ten years for the right quarterback.** He had the idea in 2003, built a prototype called Home Run, and shelved it until 2013, when Eric Wu, who had said no in 2010, agreed. Thiel first found his home-pricing pitch boring and loved the version that bought homes. Lesson: wait for the right founder rather than start with the wrong one, though he does not recommend the delay (S009, S027, S050, S074, S082).
+
+9. **Opendoor ignored the fixed-cost warning.** Vinod Khosla told the founders in 2015 that real estate is cyclical and to keep fixed costs low. It did not happen; when rates rose the cost structure was wrong, and a promoted CFO ran the company badly for years. In 2025 he and Eric Wu came back to run a turnaround with a new executive team, in person, cutting cost while recruiting and building. He admits "we were a little lazy" (S075) on timing. Lesson: fix fixed costs before the cycle turns (S015, S016, S039, S044, S075).
+
+10. **Max Rhodes was a bad employee and a great founder.** At Square, Rhodes was disagreeable and did not follow instructions; when he raised for Fair, most investors asked about him as an employee and passed. "Same person, wrong question, wrong result." (S007) Fair became Rabois's largest holding. Lesson: reference the founder, not the employee (S007, S019, S070, S084).
+
+11. **LinkedIn hit a fraction of its potential.** He thinks LinkedIn reached 5 to 20 percent of what it could have been because early hires were not top level and the team hired people like themselves: "it still drives me crazy that LinkedIn wasn't more valuable than Facebook it should have been" (S021). He also read every new profile daily for a year and argued against profile photos, and "eventually, you know, LinkedIn proved me wrong" (S086). Lesson: the team sets the ceiling, and his own product calls can be wrong (S021, S029, S064, S086).
+
+12. **Slide, the one failure.** Dense talent, the wrong theory (let data decide what to build), and heavy dependence on MySpace and then Facebook. It sold to Google for about $187 million, far below the ambition. Lesson: build products users depend on before a platform changes terms, and do not let bottom-up data replace a vision (S003, S007, S042, S082).
+
+13. **Voter.com and the CEO who would not change.** His first startup, joined weeks before the 2000 crash, was built on cheap capital, and its young CEO would not make the cuts the crash demanded, so Rabois called Thiel and joined PayPal. He says the failure taught him strategy, hiring, and managing in about six months, which is why he was ready on day one. Lesson: a leader who will not change course in a downturn sinks the company (S015, S057, S083, S085).
+
+14. **The Square hire everyone wanted gone.** Six weeks after one of his hires at Square, "every single person was like when are you getting rid of this person" (S026). Lesson: hiring unproven people means some mistakes, so catch them fast (S026, S030, S056).
+
+15. **OpenStore: what went wrong and right.** The first three to seven brands it bought went badly because there was no operations or integration team, and he says he was too passive on culture in year one. On the good side, a very junior hire was promoted five times and came to run at least half the company, and the Drive product came from four in-person conversations and shipped in six weeks. Lesson: set the culture early, staff the ops before scaling, and in-person collisions produce product (S014, S021, S031, S040, S059).
+
+16. **Robinhood lost, Fair kept.** He passed on a Robinhood seed because his partners would not let him take the board seat, and lost sleep over it. When Fair's founders asked for a board seat, he said yes and did not tell his partners: "I'm not messing up. I've got burned this one before." (S033) Lesson: do not make the same mistake twice (S013, S033, S043, S083).
+
+17. **Rippling and the price he would not raise.** He offered Parker Conrad a seed term sheet slightly too cheap, would not move when asked for a little more, and lost the deal. He calls it "the biggest mistake ever was not raising the valuation on Rippling" (S049). A similar story with a $25 million post-money seed he held firm on, now worth $12 billion, is told without the name (S059). Lesson: do not haggle over price with a great founder (S013, S015, S049, S059).
+
+18. **Bill Walsh and the receptionist.** Walsh's first act at a losing 49ers team was a memo on how the front desk answers the phone; Rabois says that precision is why "your receivers are going to run seven yard routes not six and a half" (S018). Lesson: details set early become the culture (S004, S006, S018, S082).
+
+19. **Airbnb's cuts in COVID.** Airbnb's G&A was invisible while revenue flowed, then became "pure burn" (S044). It cut close to 40 percent of staff, which he calls an amazing call two years later. Lesson: a crisis lets you make changes you were too scared to make, and bloat is a hidden risk (S011, S044, S075).
+
+20. **Tony Xu's 20 references.** DoorDash's CEO runs 20 to 25 back-channel references on every senior hire and spends about half his time recruiting; Rabois tells rooms of founders to copy it. Lesson: ask for names you were not given and keep going until you hear a negative (S007, S077).

@@ -1,0 +1,95 @@
+# Sources: Keith Rabois
+
+89 sources (4 web, 85 video), 883,520 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Learnings from Keith Rabois: Evaluating and Managing Executives | https://rabois.substack.com/p/learnings-from-keith-rabois-evaluating | 2020-11-02 | 1097
+- S002 | Hiring Executives for unfamiliar functions.... | https://rabois.substack.com/p/hiring-executives-for-unfamiliar | 2020-10-29 | 765
+- S003 | Operators Ep 14 Transcript | https://delian.substack.com/p/operators-ep-14-transcript | 2020-11-09 | 13170
+- S004 | Keith Rabois: Key lessons from Peter Thiel, Reid Hoffman, and Jack Dorsey | https://greatness.substack.com/p/keith-rabois-key-lessons-from-peter | 2020-05-09 | 5823
+- S006 | How to Operate with Keith Rabois (How to Start a Startup 2014: Lecture 14) | https://www.youtube.com/watch?v=w19IBxDu2Y4 | 2017-04-19 | 10649
+- S007 | Hard truths about building in the AI era / Keith Rabois (Khosla Ventures) | https://www.youtube.com/watch?v=xCd9ykretlg | 2026-04-12 | 16193
+- S008 | What Keith Rabois Thinks About Basically Everything | https://www.youtube.com/watch?v=LOKpsMo9L8U | 2024-06-22 | 18210
+- S009 | Keith Rabois on How He Invests, Forming a Founding Team, and Funding “Ridiculous” Ideas | https://www.youtube.com/watch?v=x-X9Vn5MdZQ | 2024-06-23 | 18530
+- S010 | E1152: Keith Rabois on leaving Silicon Valley for Miami, Roaring Twenties 2.0, IPO spree & more | https://www.youtube.com/watch?v=NsISIpo1Fx4 | 2020-12-15 | 18616
+- S011 | Keith Rabois of Founders Fund + Airbnb's earnings & evolving customer base, SF BOE / E1388 | https://www.youtube.com/watch?v=hQ1RScPJDUM | 2022-02-17 | 15182
+- S012 | #45 - Keith Rabois: Spotting Talent, Operating, and the PayPal Mafia | https://www.youtube.com/watch?v=S9by0kQ12aI | 2023-11-15 | 15511
+- S013 | Keith Rabois on Rejoining Khosla Ventures / E1102 | https://www.youtube.com/watch?v=kQ-2_t9Fdw4 | 2024-01-12 | 15085
+- S014 | Keith Rabois’s Most Contrarian Takes on Start-Ups | https://www.youtube.com/watch?v=fA00lIUES9A | 2023-04-28 | 14855
+- S015 | Keith Rabois and Eric Newcomer's Heated Conversation on Tech, Trump, and Tariffs | https://www.youtube.com/watch?v=nbl8nULYfhE | 2026-02-12 | 15247
+- S016 | Keith Rabois on 2023 macro outlook, startup valuations, founder advice, ChatGPT vs Google / E1650 | https://www.youtube.com/watch?v=CD5yIUcFWdo | 2023-01-04 | 13641
+- S017 | #AIS: Tim Urban on political discourse + Keith Rabois on early-stage investing in 2022 | https://www.youtube.com/watch?v=ivDwzBYsED4 | 2022-05-26 | 14743
+- S018 | Billionaire Investor on Mastering your Mind & Overcoming Stress / Keith Rabois | https://www.youtube.com/watch?v=XJTlXA3dWGY | 2024-03-28 | 14276
+- S019 | Keith Rabois on What It Takes to Be #1 in Venture / The Rise x Nucleus100 | https://www.youtube.com/watch?v=s3-ziJ8V3mY | 2025-10-30 | 14410
+- S020 | This Billionaire Trains His Body Like He's Building A Billion-Dollar Startup / Keith Rabois | https://www.youtube.com/watch?v=-zripXb3QRE | 2026-08-04 | 13659
+- S021 | Keith Rabois & Mike Shebat: Creating an Olympian Mindset to Work Ethic/ E1087 | https://www.youtube.com/watch?v=flf81mI5yEU | 2023-11-27 | 13744
+- S022 | Keith Rabois’s Advice For Angel Investors | https://www.youtube.com/watch?v=wEnXdEg8aTg | 2024-06-25 | 12631
+- S023 | Vinod Khosla and Keith Rabois on Building and Investing in Enduring Companies / Ep. 40 | https://www.youtube.com/watch?v=MBf1LZbk2Pk | 2026-01-21 | 13191
+- S024 | Making The Man: Keith Rabois Investing in PayPal, LinkedIn, Square & Maximus / Maximus Podcast | https://www.youtube.com/watch?v=64_6Cc2Vz00 | 2021-02-22 | 12609
+- S025 | How Contrarians Think: The Early Days of Square, Yelp, & PayPal with Keith Rabois (The NFX Podcast) | https://www.youtube.com/watch?v=og3PVuVh5Rw | 2020-06-30 | 11850
+- S026 | Keith Rabois: On Identifying Talent [Classic Interview] | https://www.youtube.com/watch?v=v1SDR-7zoVc | 2025-01-07 | 13582
+- S027 | WUEC Fireside Chat with Keith Rabois (Founders Fund, Paypal, Linkedin, Square, Slide, etc) | https://www.youtube.com/watch?v=nKW3mQN52so | 2021-04-29 | 10675
+- S028 | Empire Building: Keith Rabois on Entrepreneurship, Success, and Disrupting Industries | https://www.youtube.com/watch?v=XtP-csNuCYU | 2023-05-30 | 10827
+- S029 | Keith Rabois / Venture Capitalist and Co-Founder of Opendoor and OpenStore | https://www.youtube.com/watch?v=J5YsZl5kSRg | 2024-06-11 | 11109
+- S030 | Greatest Hits: Keith Rabois on Career Strategy, Identifying Talent, and Evaluating Markets | https://www.youtube.com/watch?v=1V30KE7SXI8 | 2024-06-26 | 13138
+- S031 | What Keith Rabois Looks For In Founders | https://www.youtube.com/watch?v=WN51WKiF9XY | 2022-10-19 | 11900
+- S032 | Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024) | https://www.youtube.com/watch?v=s8zgNDIUW-w | 2024-05-01 | 11683
+- S033 | Comparative Advantages / Keith Rabois, Managing Director at Khosla Ventures / Ep. 2 | https://www.youtube.com/watch?v=WVMnMlsVnCc | 2025-03-20 | 13238
+- S034 | The Secrets of a Billionaire Investor - Full Interview / Keith Rabois | https://www.youtube.com/watch?v=0i3gNLz16Uo | 2021-09-05 | 11788
+- S035 | Keith Rabois on Trump Vs Kamala, Founder Mode & Mastering time like Elon Musk | https://www.youtube.com/watch?v=qvqg4aTq1zM | 2024-10-18 | 12052
+- S036 | Alignment Summit Chats: Technology & Politics with Keith Rabois (Founders Fund) | https://www.youtube.com/watch?v=4y-i8mGh29I | 2021-05-03 | 10061
+- S037 | Keith Rabois - How to Hire Amazing People | https://www.youtube.com/watch?v=Sad3owRmB74 | 2023-04-07 | 10271
+- S038 | #176 Keith Rabois - Spotting Undiscovered Talent, Discovering Your Comparative Advantage and More! | https://www.youtube.com/watch?v=OAzY8biNStY | 2020-01-12 | 10182
+- S039 | The IO Podcast Episode 2: Keith Rabois, Founders Fund | https://www.youtube.com/watch?v=88g9afUw3dQ | 2023-08-01 | 11304
+- S040 | POD OF JAKE / #126 - KEITH RABOIS | https://www.youtube.com/watch?v=hJZGiQ-J9-0 | 2023-04-04 | 10587
+- S041 | Advice From A Billionaire / Keith Rabois Actionable Advice / Maximus Podcast | https://www.youtube.com/watch?v=oR3X8khr8LQ | 2021-03-15 | 10300
+- S042 | ReadWriteMix with Owen Thomas and Keith Rabois on the Next Trillion Dollars, August 21, 2013 | https://www.youtube.com/watch?v=Ko2CRS6o0cI | 2013-08-24 | 10799
+- S043 | E905: PT2 Keith Rabois PayPal/FoundersFund: censorship, secondary shares, selling, getting into tech | https://www.youtube.com/watch?v=fOS9K4UU50A | 2019-02-22 | 9790
+- S044 | Keith Rabois: Israel, OpenAI, Opendoor, and DOGE | https://www.youtube.com/watch?v=Kw2bK_jLz8M | 2025-10-16 | 10400
+- S045 | Interview with Keith Rabois (From Cartoon Avatars EP 13) | https://www.youtube.com/watch?v=ZpSE_ItX8FA | 2022-05-06 | 10493
+- S046 | Most AI Startups Won't Survive (Here's How to Build One That Does) / Keith Rabois | https://www.youtube.com/watch?v=_8wcKJFxIa4 | 2026-10-28 | 8678
+- S047 | What Top VCs Actually Think About Legal AI with Keith Rabois #harvey #legora #spellbook #startup #ai | https://www.youtube.com/watch?v=VPjYgDnpNBc | 2026-04-30 | 8561
+- S048 | Keith Rabois: Negotiation Lessons From the Startup Trenches. | https://www.youtube.com/watch?v=vbVZDp6s9xU | 2025-04-30 | 8809
+- S049 | Keith Rabois & Eric Glyman: The Tools, Tips, Secrets and Process That Drive Efficiency / E1148 | https://www.youtube.com/watch?v=04k2fFdZPmE | 2024-05-03 | 9565
+- S050 | A Conversation about Entrepreneurship and Investing with Keith Rabois of Founders Fund | https://www.youtube.com/watch?v=V7ytllxFDXg | 2021-03-01 | 7568
+- S051 | Keith Rabois on AI's Startup Shakeup, Ben Smith on the Paramount Merger & More / Aug 7, 2025 | https://www.youtube.com/watch?v=4o5KihZbuos | 2025-08-08 | 8211
+- S052 | Keith Rabois: The End of Woke Capitalism; Time Allocation Tips; Silicon Valley vs Miami / 20VC #891 | https://www.youtube.com/watch?v=_52rbKrMFHQ | 2022-05-30 | 8011
+- S053 | A Conversation With Keith Rabois - Venture In The Capital 2025 | https://www.youtube.com/watch?v=rbtuPP1f_Go | 2025-04-08 | 7980
+- S054 | Episode 45: Keith Rabois - Managing Director at Khosla Ventures | https://www.youtube.com/watch?v=4W_b1QyZJSs | 2026-01-10 | 7715
+- S055 | Keith Rabois: Lessons from PayPal Mafia, $OPEN, & Investing | https://www.youtube.com/watch?v=ERCsE6D0psw | 2025-09-19 | 7649
+- S056 | Keith Rabois on the role of a COO, how to hire the best and why transparency matters | https://www.youtube.com/watch?v=BnvUtbIy5ts | 2013-03-14 | 8345
+- S057 | Speed, Standards & Building Moats in the AI Era with Keith Rabois | https://www.youtube.com/watch?v=sLZoJ_Wv5oE | 2025-09-25 | 6911
+- S058 | Culture: What, When, How? / Patty McCord & Keith Rabois | https://www.youtube.com/watch?v=wa99WjTSNaQ | 2024-07-30 | 6096
+- S059 | Lessons from Five Bosses / Keith Rabois & Samir Kaul | https://www.youtube.com/watch?v=EpmVb1rvnBA | 2023-06-30 | 6890
+- S060 | Finding Genius: VC Keith Rabois shares insights from early investments in Airbnb, Affirm, and Stripe | https://www.youtube.com/watch?v=naPD8CqGHf8 | 2020-12-15 | 6675
+- S061 | Building Amazing Teams with Keith Rabois | https://www.youtube.com/watch?v=xFfXn_jViaM | 2022-02-20 | 7588
+- S062 | Fireside Chat with Keith Rabois, Partner of Khosla Ventures, and Aaron Levie, Founder and CEO of Box | https://www.youtube.com/watch?v=TCk311HcsEI | 2014-05-17 | 7523
+- S063 | Founder Mode / Garry Tan & Keith Rabois | https://www.youtube.com/watch?v=4tcWdjofeTI | 2025-09-09 | 6073
+- S064 | Lessons from Five Companies (Part II) / Keith Rabois & David Weiden | https://www.youtube.com/watch?v=oSZnLUrtp58 | 2024-08-01 | 6153
+- S065 | Using Boards / Max Rhodes & Keith Rabois | https://www.youtube.com/watch?v=s36dOYHkFVE | 2024-08-01 | 5866
+- S066 | Fireside Chat With Keith Rabois | https://www.youtube.com/watch?v=f-CqXSqX2_8 | 2018-04-18 | 5146
+- S067 | Keith Rabois on How to Find and Grow Talent | https://www.youtube.com/watch?v=9HGRap1cJ3k | 2016-10-19 | 6673
+- S068 | Future of Finance: The “Machine Bank” is Coming with Keith Rabois and Sadi Khan | https://www.youtube.com/watch?v=NlXfXTxfrkE | 2026-04-21 | 6228
+- S069 | Ramping Ramp / Eric Glyman & Keith Rabois | https://www.youtube.com/watch?v=ziNKBFlNNck | 2025-09-12 | 5810
+- S070 | Top Lessons in Building Great Teams from Keith Rabois, Partner at Founders Fund and ex-COO of Square | https://www.youtube.com/watch?v=klpO-cLFuQU | 2019-06-10 | 4867
+- S071 | Keith Rabois on Miami and Company-Building in 2021 | https://www.youtube.com/watch?v=PpqSgcQArVk | 2024-06-25 | 5796
+- S072 | Post Seed Conference 2014 - Keith Rabois (Khosla Ventures) & Paul Martino (Bullpen Capital) | https://www.youtube.com/watch?v=PsBPz5LGhI4 | 2014-12-11 | 6069
+- S073 | "Work at an outstanding organization first" - Keith Rabois Advice on Starting Companies | https://www.youtube.com/watch?v=snjzoj2UGDw | 2025-03-05 | 5160
+- S074 | Keith Rabois Interviewed by Dan Primack / Upfront Summit 2020 | https://www.youtube.com/watch?v=BtVVoN_tB00 | 2020-02-03 | 5602
+- S075 | Keith Rabois on Opendoor ($OPEN) Activist Turnaround | https://www.youtube.com/watch?v=jHEc6c0BdHk | 2025-09-15 | 4821
+- S076 | NYC Summit 2024: Keith Rabois & Alex Konrad | https://www.youtube.com/watch?v=CjdTJgfd5rM | 2025-02-12 | 4320
+- S077 | Hard Fought Success / Tony Xu & Keith Rabois | https://www.youtube.com/watch?v=Ty8dxqQB6BA | 2024-08-02 | 6991
+- S078 | Keith Rabois and Jacob Helberg on The US-China Cold War, The Election, and Silicon Valley | https://www.youtube.com/watch?v=aI08gkUmZhM | 2024-06-25 | 12735
+- S079 | What is OpenStore? How Keith Rabois is Acquiring Shopify Brands | https://www.youtube.com/watch?v=Mz15wvYkajM | 2023-10-03 | 15586
+- S080 | Decacorns & Unicorns: Founders Fund Partner Keith Rabois and SaaStr CEO Jason Lemkin | https://www.youtube.com/watch?v=KxTZfx_QpjY | 2020-05-28 | 10954
+- S081 | Creating Impact and Building in Miami w/ Keith Rabois, General Partner @ Founders Fund | https://www.youtube.com/watch?v=vgTbMveQ7bY | 2021-02-11 | 10906
+- S082 | POD OF JAKE / #13 - KEITH RABOIS | https://www.youtube.com/watch?v=6Ebs55ZiEtA | 2021-07-22 | 9260
+- S083 | Advice For People In Their 20s (Billionaire Keith Rabois) / The Danny Miranda Podcast 403 | https://www.youtube.com/watch?v=wSg0er9SkNI | 2023-09-15 | 9017
+- S084 | How To Build A Billion Dollar Company with Keith Rabois | https://www.youtube.com/watch?v=FpD8NQSFIYE | 2023-09-28 | 9058
+- S085 | EP 68 / Keith Rabois' Key To Happiness: Miami | https://www.youtube.com/watch?v=jsgXPpHLRzM | 2022-07-05 | 7840
+- S086 | [PREMONEY 2014] The Final Frontier: Keith Rabois & Dave McClure On The Future Of VC | https://www.youtube.com/watch?v=dGtVsVVNvPk | 2014-07-01 | 7426
+- S087 | Q&A with Nik Sharma: Keith Rabois on OpenStore, Shopify, & e-commerce | https://www.youtube.com/watch?v=MUgzJd9Epnc | 2023-04-21 | 7074
+- S088 | Managing Director of Khosla Ventures, Keith Rabois in conversation w/ Dan Primack- Axios BFD: Miami | https://www.youtube.com/watch?v=FM3ZkqJ8EW8 | 2024-02-14 | 4383
+- S089 | Founders Fund's Keith Rabois on Miami's Tech Scene | https://www.youtube.com/watch?v=OI1LfpmgXWc | 2022-05-06 | 3841
+- S090 | E1093: Keith Rabois on China’s grand plan, Taiwan, Big Tech & more | https://www.youtube.com/watch?v=dNOi6tYRkUQ | 2020-08-07 | 19224

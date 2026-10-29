@@ -50,6 +50,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Elon | `council-musk` | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? | `brains/elon-musk/` |
 | Godin | `council-godin` | Marketing to the smallest viable audience | Who exactly is this for, and will they tell others? | `brains/seth-godin/` |
 | Lemkin | `council-lemkin` | B2B sales and SaaS growth | Can you sell this repeatedly, and what does the first sales team look like? | `brains/jason-lemkin/` |
+| Rabois | `council-rabois` | Operating cadence and hiring | Who's the barrel that ships this, and how do you know it's working? | `brains/keith-rabois/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -61,6 +62,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Godin (never race to the bottom, price is a story) against any seat cutting price to win volume; Buffett and Hormozi own the unit economics he does not run.
 - Lemkin (founder sells first, then two reps, then a VP of Sales who lifts revenue in one cycle) against Godin (let a small audience tell the others) and Hormozi (one great offer closes anyone). Lemkin and Martell agree on hiring early and split on whether the next hire buys back founder time or sells.
 - Lemkin (venture growth bars: triple, triple, double, double) against Buffett (cash first, no growth bought at any price); Lemkin defers to Buffett on runway and downside.
+- Rabois (count the barrels, hire undiscovered talent, judge inputs, no OKRs or pros and cons lists) against Wickman (a system of rocks, scorecards, and meeting pulse) and Martell (buy back founder time with the next hire). Rabois and Leila Hormozi agree on high standards and split on how hard to push: he criticizes in public and acts on the first signal.
+- Rabois (in office, hypergrowth bars, hire young and unproven) against Buffett on what a steady business needs; Rabois defers to Buffett on cash and to the people seats on team health.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
