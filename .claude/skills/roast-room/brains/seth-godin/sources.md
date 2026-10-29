@@ -1,0 +1,95 @@
+# Sources: Seth Godin
+
+89 sources (43 web, 46 video), 585,054 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | How Seth Godin Manages His Life: Rules, Principles, and Obsessions (#138) - The Blog of Author Tim Ferriss | https://tim.blog/2016/02/10/seth-godin/ | 2016-02-10 | 9342
+- S002 | The Tim Ferriss Show Transcripts: Seth Godin on How to Think Small to Go Big (#177) - The Blog of Author Tim Ferriss | https://tim.blog/2018/06/05/the-tim-ferriss-show-transcripts-seth-godin-on-how-to-think-small-to-go-big/ | 2018-06-05 | 6081
+- S003 | The Tim Ferriss Show Transcripts: Seth Godin (#343) - The Blog of Author Tim Ferriss | https://tim.blog/2018/11/05/the-tim-ferriss-show-transcripts-seth-godin/ | 2018-11-05 | 16528
+- S004 | The Tim Ferriss Show Transcripts: Seth Godin on The Game of Life, The Value of Hacks, and Overcoming Anxiety (#476) - The Blog of Author Tim Ferriss | https://tim.blog/2020/10/29/seth-godin-the-practice-transcript/ | 2020-10-29 | 15373
+- S005 | The Tim Ferriss Show Transcripts: Seth Godin: The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons fro | https://tim.blog/2023/05/18/seth-godin-2-transcript/ | 2023-05-19 | 16082
+- S006 | The Tim Ferriss Show Transcripts: Seth Godin: Coaching Tim on Overcoming Resistance, Lessons from Isaac Asimov, Writing Secrets After 8,500+ Daily Blog Posts,  | https://tim.blog/2024/03/22/seth-godin-3-transcript/ | 2024-03-22 | 7605
+- S007 | The Tim Ferriss Show Transcripts: Seth Godin on Playing the Right Game and Strategy as a Superpower (#792) - The Blog of Author Tim Ferriss | https://tim.blog/2025/01/31/seth-godin-strategy-transcript/ | 2025-02-01 | 19267
+- S008 | ClearerThinking.org Podcast / Choosing your strategy (with Seth Godin) | https://podcast.clearerthinking.org/episode/233/seth-godin-choosing-your-strategy/ | 2024-10 | 9683
+- S009 | The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! / Seth Godin | https://www.youtube.com/watch?v=g7AxxkywiFI | 2026-08-10 | 22581
+- S010 | How To GET STARTED, GET UNSTUCK & SHARE Your Best Work / Seth Godin x Rich Roll Podcast | https://www.youtube.com/watch?v=_N8UhZeWUeE | 2023-01-09 | 19698
+- S011 | The Marketing GENIUS: How To Build A Brand That Sells In The New Era Of AI (3 Laws Of Marketing) | https://www.youtube.com/watch?v=dNWkwrqAkcM | 2026-09-21 | 17078
+- S012 | How to Build a Magnetic Brand that Sells Itself ft. Seth Godin | https://www.youtube.com/watch?v=SbHDPJNYHek | 2025-08-14 | 15568
+- S013 | How to Solve Problems Better Than 99% of People / Seth Godin | https://www.youtube.com/watch?v=o8yD6nt71Cs | 2026-08-12 | 12894
+- S014 | How to Get More Out of Life: Make More Money & Build Something That Matters with Seth Godin | https://www.youtube.com/watch?v=IJq-SLEjdsk | 2026-07-11 | 11287
+- S015 | How to Build a Life That Matters & Get What You Want Starting Today | https://www.youtube.com/watch?v=cWZI2RyI9wM | 2026-03-12 | 11835
+- S016 | Seth Godin - How to Get Your Ideas to Spread - Nordic Business Forum | https://www.youtube.com/watch?v=04pdq5IppL8 | 2020-03-10 | 10174
+- S017 | Marketing Godfather: How To Build An Audience That Buys (Best Hour You’ll Spend Today!) / Seth Godin | https://www.youtube.com/watch?v=8zcnK6Lx_p4 | 2025-03-03 | 10270
+- S018 | The Art of Strategy: A Conversation with Seth Godin | https://www.youtube.com/watch?v=B-3iXVv82qk | 2024-12-14 | 10049
+- S019 | NextNW Virtual Fireside Chat with Seth Godin, Author of This is Strategy | https://www.youtube.com/watch?v=oPc4iNhPVcc | 2026-03-04 | 10253
+- S020 | Seth Godin on Building a Solopreneur Business: Stop Hiring Yourself as the Cheapest Freelancer | https://www.youtube.com/watch?v=-u2M86t7iYs | 2026-02-17 | 10799
+- S021 | Marketing Legend: The True Future of AI in Marketing | https://www.youtube.com/watch?v=LMbfhVrkifw | 2024-10-23 | 11360
+- S022 | Marketing in a new world - Seth Godin | https://www.youtube.com/watch?v=phQjsL4kbJ0 | 2023-03-26 | 9242
+- S023 | Seth Godin - Finding an Elegant Strategy: Doing Work That Matters for People Who Care Plus Q&A | https://www.youtube.com/watch?v=2t1cy8YG0FM | 2025-05-06 | 8403
+- S024 | Seth Godin Breaks Down Strategy, Branding & Marketing Behind The World’s Biggest Brands | https://www.youtube.com/watch?v=dK9OZXZdQ0U | 2024-10-28 | 9533
+- S025 | How to Tell a Problem From a Situation: Seth Godin | https://www.youtube.com/watch?v=vXpBM9PFfyI | 2026-09-22 | 9915
+- S026 | How To Become A Linchpin - Seth Godin Exclusive Keynote | https://www.youtube.com/watch?v=QXHBtMlBLa0 | 2017-11-26 | 9533
+- S027 | Creating Work That Stands Out with Seth Godin | https://www.youtube.com/watch?v=59IbCmbFEOg | 2024-10-20 | 8588
+- S028 | Idea to Startup #161: Seth Godin Thinks Through Startup Ideas in Real-Time | https://www.youtube.com/watch?v=_2Wqtva9buA | 2023-06-04 | 8396
+- S029 | Summit Keynote Speaker Seth Godin: The Undisputed Heavyweight Champ of Modern Marketing | https://www.youtube.com/watch?v=9cjibbLPPHQ | 2021-08-11 | 9590
+- S030 | A Masterclass in Strategy with Seth Godin, Bestselling Author | https://www.youtube.com/watch?v=Co4l8jjd4kQ | 2024-10-24 | 7984
+- S031 | All Marketers are Liars   Seth Godin speaks at Google | https://www.youtube.com/watch?v=ja5sHUkHe5U | 2016-01-17 | 9210
+- S032 | Seth Godin / The Song of Significance: A New Manifesto for Teams / Talks at Google | https://www.youtube.com/watch?v=nAanAMFJ3iE | 2023-06-22 | 8254
+- S033 | Seth Godin: How to Build a Brand People Pay More For | https://www.youtube.com/watch?v=BPK_qzeH_yk | 2018-11-05 | 8394
+- S034 | SETH GODIN - THIS IS MARKETING: How To Find Your Viable Audience & Win Trust From Your Target Market | https://www.youtube.com/watch?v=bHubyKHmP-U | 2020-07-15 | 8756
+- S035 | TMBA433: A Conversation With Seth Godin - Tropical MBA | https://www.youtube.com/watch?v=5fNx-Al7rjc | 2020-02-05 | 8318
+- S036 | Seth Godin: Here's Why Your Business Strategy Keeps Failing | https://www.youtube.com/watch?v=GyDO81ERius | 2024-10-22 | 8795
+- S037 | Seth Godin's best tactics for building remarkable products, strategies, brands and more | https://www.youtube.com/watch?v=UyWTDmDjNy4 | 2024-12-08 | 8337
+- S038 | Seth Godin: Leadership vs. Management - What it means to make a difference | https://www.youtube.com/watch?v=qzoIAJYPQwo | 2021-08-23 | 7504
+- S039 | ITT 165: This is Marketing with Seth Godin | https://www.youtube.com/watch?v=7D0RB0u2-pc | 2022-11-20 | 9620
+- S040 | Branding & Marketing In The Age Of AI with Seth Godin | https://www.youtube.com/watch?v=SJPUm4RAtvA | 2024-02-13 | 7497
+- S041 | The Seth Godin Interview / The Danny Miranda Podcast 362 | https://www.youtube.com/watch?v=btTotUWADmc | 2023-05-31 | 6782
+- S042 | Why Strategy Always Beats Talent (w/Seth Godin) | https://www.youtube.com/watch?v=AZeCxY5yHUY | 2024-10-30 | 7096
+- S043 | Seth Godin: Solving the Unsolvable: Live Interview | https://www.youtube.com/watch?v=F7t9UUAPH3M | 2026-09-29 | 7019
+- S044 | The "Talking Dog" Theory of AI: Seth Godin | https://www.youtube.com/watch?v=LFOvsXvO63k | 2025-09-21 | 6657
+- S045 | How to Build a Remarkable Brand in the Age of AI / Seth Godin | https://www.youtube.com/watch?v=zFHzTy7XLbM | 2026-04-14 | 6769
+- S046 | Purple Cow, How to Be Remarkable, and the Secrets of Marketing in 2023:  with Seth Godin | https://www.youtube.com/watch?v=inBvLIIcRr0 | 2023-08-01 | 6753
+- S047 | The Path Forward: Leading With Purpose in 2026 - Seth Godin | https://www.youtube.com/watch?v=89uwRSYbovg | 2026-03-02 | 7449
+- S048 | Q&A with Seth Godin - How to be a more effective leader | https://www.youtube.com/watch?v=c1eqcOGnb74 | 2019-04-17 | 5640
+- S049 | Q&A with Seth Godin - What it takes to start a new project | https://www.youtube.com/watch?v=EWoKx6Ljgg8 | 2019-04-17 | 5020
+- S050 | Creator Conversations: Reimagining Work with Seth Godin | https://www.youtube.com/watch?v=BZx5u-dy34w | 2023-06-02 | 5615
+- S051 | Seth Godin on The Knot: You Are the Circumstances | https://www.youtube.com/watch?v=TqCh4St3aJ4 | 2026-09-22 | 10052
+- S052 | Seth Godin on Leadership, Vulnerability, and Making an Impact in the New World Of Work | https://www.youtube.com/watch?v=O7H9ERbwQjo | 2023-07-03 | 9711
+- S053 | Seth Godin on Strategy, Fear and Finding Your Path | https://www.youtube.com/watch?v=12gTqRhB_ns | 2026-08-24 | 5639
+- S054 | Seth Godin's This Is Marketing Book Interview | https://www.youtube.com/watch?v=vGROAIzkbpo | 2018-11-13 | 6300
+- S055 | Building a second-wave AI business | https://seths.blog/2026/10/but-is-it-a-business/ | 2026-10-06 | 2057
+- S056 | AI together | https://seths.blog/2026/05/ai-together/ | 2026-05-05 | 2601
+- S057 | Promotion, activation, conversation | https://seths.blog/2026/06/promotion-activation-conversation/ | 2026-06-18 | 1500
+- S058 | The Builder’s Creed | https://seths.blog/2026/07/the-builders-creed/ | 2026-07-07 | 989
+- S059 | Energy and systems complexity | https://seths.blog/2025/05/systems-complexity-and-energy/ | 2025-05-13 | 1275
+- S060 | Kinds of stealing | https://seths.blog/2025/11/kinds-of-stealing/ | 2025-11-19 | 1132
+- S061 | Five lessons from week one of This is Strategy | https://seths.blog/2024/10/five-lessons-from-week-one-of-this-is-strategy/ | 2024-10-30 | 1229
+- S062 | The Strategy Questions | https://seths.blog/2024/10/the-strategy-questions/ | 2024-10-22 | 1105
+- S063 | The positive auction | https://seths.blog/2024/03/the-positive-auction/ | 2024-03-05 | 1334
+- S064 | Game design and strategy (Bongo part 3) | https://seths.blog/2024/11/game-design-and-strategy-bongo-part-3/ | 2024-11-22 | 1008
+- S065 | Replacing bad systems with bad systems | https://seths.blog/2023/04/replacing-bad-systems-with-bad-systems/ | 2023-04-06 | 975
+- S066 | Fidelity, compression and culture | https://seths.blog/2023/02/fidelity-compression-and-culture/ | 2023-02-14 | 1081
+- S067 | Why the blockchain matters | https://seths.blog/2021/05/why-the-blockchain-matters/ | 2021-05-10 | 1187
+- S068 | On getting a fancy MBA… | https://seths.blog/2020/12/but-what-about-the-mba-programs/ | 2020-12-07 | 983
+- S069 | When your project isn’t making money | https://seths.blog/2019/05/when-your-project-isnt-making-money/ | 2019-05-03 | 1088
+- S070 | Business/busyness | https://seths.blog/2018/07/busyness/ | 2018-07-25 | 1118
+- S071 | It’s not the bottom, it’s the foundation | https://seths.blog/2016/11/its-not-the-bottom-its-the-foundation/ | 2016-11-15 | 1036
+- S072 | What is customer service for? | https://seths.blog/2015/03/what-is-customer-service-for/ | 2015-03-25 | 1258
+- S073 | Direct marketing (and the other kind) | https://seths.blog/2015/03/direct-marketing-and-the-other-kind-2/ | 2015-03-31 | 1063
+- S074 | Understanding substitutes | https://seths.blog/2014/08/understanding-substitutes/ | 2014-08-11 | 1742
+- S075 | Forty years of projects | https://seths.blog/2014/07/thirty-years-of-projects/ | 2014-07-10 | 2881
+- S076 | Should you work for free? | https://seths.blog/2013/02/should-you-work-for-free/ | 2013-02-20 | 1273
+- S077 | The game theory of discovery and the birth of the free-gap | https://seths.blog/2011/06/discovery-free-145/ | 2011-06-08 | 1249
+- S078 | The business of software | https://seths.blog/2010/10/the-business-of-software/ | 2010-10-05 | 1509
+- S079 | Understanding business development | https://seths.blog/2009/09/understanding-business-development/ | 2009-09-21 | 1671
+- S080 | Launching Brands in Public | https://seths.blog/2009/09/launching-brands-in-public/ | 2009-09-23 | 1222
+- S081 | The platform vs. the eyeballs | https://seths.blog/2009/09/the-platform-vs-the-eyeballs/ | 2009-09-24 | 961
+- S082 | Selling ideas to a big company | https://seths.blog/2008/12/selling-ideas-t/ | 2008-12-15 | 968
+- S083 | How to make money using the Internet | https://seths.blog/2008/11/how-to-make-mon/ | 2008-11-20 | 1386
+- S084 | In Defense of Raising Money: a Manifesto for NonProfit CEOs | https://seths.blog/2008/10/in-defense-of-r/ | 2008-10-27 | 2222
+- S085 | Better than Free | https://seths.blog/2008/02/better-than-fre/ | 2008-02-02 | 1655
+- S086 | Monopolies, seven years later | https://seths.blog/2007/12/monopolies-seve/ | 2007-12-07 | 2944
+- S087 | Starting over with customer service | https://seths.blog/2007/02/starting_over_w/ | 2007-02-21 | 1025
+- S088 | The new rules of naming | https://seths.blog/2005/10/the_new_rules_o/ | 2005-10-16 | 1165
+- S089 | Why Do Companies Stick With Their Mistakes? | https://seths.blog/2002/02/why_do_companie/ | 2002-02-25 | 984
