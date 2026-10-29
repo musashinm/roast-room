@@ -1,0 +1,89 @@
+# Sources: Steve Jobs
+
+83 sources (3 local, 8 web, 72 video), 728,675 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Make Something Wonderful, Part I (1976 to 1985): speeches, interviews, and emails | local file | 1985-01-01 | 7935
+- S002 | Make Something Wonderful, Part II (1985 to 1996): speeches, interviews, and emails | local file | 1996-01-01 | 10485
+- S003 | Make Something Wonderful, Part III (1996 to 2011): speeches, interviews, and emails | local file | 2011-01-01 | 24450
+- S004 | Steve Jobs: The Next Insanely Great Thing | https://www.wired.com/1996/02/jobs-2/ | 1996-02-01 | 6119
+- S005 | Thoughts on Flash - Apple | https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/ | 2010-04 | 1686
+- S006 | Apple - Thoughts on Music | https://web.archive.org/web/20070207234839/http://www.apple.com/hotnews/thoughtsonmusic/ | 2007-02 | 1916
+- S007 | Steve Jobs in 1994: The Rolling Stone Interview | https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/ | 1994 | 6220
+- S008 | Steve Jobs: Rolling Stone's 2003 Interview | https://www.rollingstone.com/culture/culture-news/steve-jobs-rolling-stones-2003-interview-243284/ | 2003 | 2947
+- S009 | The Steve Jobs 95 Interview  unabridged | https://www.youtube.com/watch?v=M6Oxl5dAnR0 | 1995-04-20 | 14249
+- S010 | Steve Jobs in 2007, at D5 Conference (Edited, Full Video) | https://www.youtube.com/watch?v=WktCKB-QMkk | 2007-05 | 10175
+- S011 | Steve Jobs in 2005, at D3 Conference (Full Video) | https://www.youtube.com/watch?v=bc3XI-09rWE | 2005-06 | 15048
+- S012 | Steve Jobs in 2004, at D2 Conference (Full Video) | https://www.youtube.com/watch?v=TCn962GX3o8 | 2004-06 | 10397
+- S013 | Steve Jobs in 2003 at D1 the First D All Things Digital Conference (Enhanced Quality) | https://www.youtube.com/watch?v=oMyZwhzy5hE | 2003-05 | 9278
+- S014 | Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series | https://www.youtube.com/watch?v=Gk-9Fd2mEnI | 1992 | 12190
+- S015 | Steve Jobs 1997 WWDC Keynote Speech / Video / Question & Answer - Fireside Chat | https://www.youtube.com/watch?v=_LsvdlaF5_k | 1997-05 | 11658
+- S016 | [subtitle] Steve Jobs Lost Interview 1990 [50 min version from wgbh] | https://www.youtube.com/watch?v=NKT5nbEPdfs | 1990 | 7987
+- S017 | Before the Comeback: Steve Jobs’ Most Honest Interview (1994) #tech #apple #news | https://www.youtube.com/watch?v=MrQ41qf0Rqs | 1994 | 5174
+- S018 | Full Steve Jobs Secrets of Life 1994 interview / #apple #technology #tech | https://www.youtube.com/watch?v=1QIDm0y2hnk | 1994 | 3969
+- S019 | From the 60 Minutes Archive: Steve Jobs | https://www.youtube.com/watch?v=c-JkrlVhs_0 | 2011-10 | 4868
+- S020 | Pixar's Early Days - A Never-Before-Seen Interview With Steve Jobs, 1996 | https://www.youtube.com/watch?v=R0XmBKsRJF8 | 1996 | 3746
+- S021 | Steve Jobs and John Lasseter interview on Pixar (1996) | https://www.youtube.com/watch?v=SgWdjvRgouk | 1996 | 4223
+- S022 | Steve Jobs Interview - 7/22/1991 - On 10 Years of the Personal Computer | https://www.youtube.com/watch?v=OzZB5pZTslE | 1991-07-22 | 3267
+- S023 | Steve Jobs Interview - 2/18/1981 | https://www.youtube.com/watch?v=DbfejwP1d3c | 1981-02-18 | 3432
+- S024 | Steve Jobs First Interview (1980) | https://www.youtube.com/watch?v=N3ponn_6Fac | 1980 | 3972
+- S025 | Steve Jobs on Joseph Juran and Quality | https://www.youtube.com/watch?v=XbkMcvnNq3g | 1990 | 2929
+- S026 | Steve Jobs brainstorms with the NeXT team 1985 ｜ Jobs official Udi0rk3jZYM | https://www.youtube.com/watch?v=QLeZVnRhnEQ | 1985 | 3681
+- S027 | Internal NeXT video (1991) | https://www.youtube.com/watch?v=CtnX1EJHbC0 | 1991 | 2935
+- S028 | Steve Jobs NeXT presentation, 1990 | https://www.youtube.com/watch?v=H07Xjom_GQA | 1990 | 2768
+- S029 | Steve Jobs holding a small staff meeting in Sept 23, 1997 | https://www.youtube.com/watch?v=8-Fs0pD2Hsk | 1997-09-23 | 2170
+- S030 | Steve Jobs in Sweden, 1985 [HQ] | https://www.youtube.com/watch?v=2qLuerYx2IA | 1985 | 1894
+- S031 | Steve Jobs visit at Lund University in 1985 | https://www.youtube.com/watch?v=NT6oUsn3ANA | 1985 | 1799
+- S032 | Apple iPhone 4 “Antennagate” Q&A - Steve Jobs, Tim Cook & Bob Mansfield | https://www.youtube.com/watch?v=BiN5ERktXz0 | 2010-07-16 | 8069
+- S033 | Microsoft Professional Developers Conference 1996 Keynote Speaker: Steve Jobs | https://www.youtube.com/watch?v=RVPrVRxtiq4 | 1996-11 | 5556
+- S034 | Apple / Think Different Launch Meeting / 1997 | https://www.youtube.com/watch?v=0FwUR9OZl8M | 1997-09-23 | 4980
+- S035 | Rare Steve Jobs Interview About The App Store in 2008 | https://www.youtube.com/watch?v=Q8hyxRJcNWU | 2008-08 | 6062
+- S036 | Steve Jobs Presents to the Cupertino City Council  (6/7/11) | https://www.youtube.com/watch?v=gtuz5OmOh_M | 2011-06-07 | 3365
+- S037 | Building NeXT from the Ground Up - Steve Jobs on Vision and Survival, 1986 | https://www.youtube.com/watch?v=s-a4aU1RUgM | 1986 | 4007
+- S038 | Steve Jobs, speech at the Apple campus | https://www.youtube.com/watch?v=EoM2Y2KO6kU | 1999-07 | 2084
+- S039 | Steve Jobs Explains What Went Wrong at Apple: Before He Came Back | https://www.youtube.com/watch?v=JnmWMgKY1fk | 1996 | 2753
+- S040 | Macintosh Introduction Boston Computer Society (1984) | https://www.youtube.com/watch?v=4btvSfvY9R8 | 1984-01 | 13846
+- S041 | Steve Jobs Unveils the NeXT Computer - October 12, 1988 | https://www.youtube.com/watch?v=92NNyd3m79I | 1988-10-12 | 19747
+- S042 | Steve Jobs NeXT Expo 1992 | https://www.youtube.com/watch?v=LrbnDp51bLQ | 1992 | 16217
+- S043 | Macworld 1997: The return of Steve Jobs | https://www.youtube.com/watch?v=IOs6hnTI4lw | 1997-08 | 5209
+- S044 | Apple Keynote November 11th, 1997 | https://www.youtube.com/watch?v=9Xo3G2qf7j4 | 1997-11-10 | 4113
+- S045 | Steve Jobs reveals OS X Strategy   WWDC 1998 | https://www.youtube.com/watch?v=jkQ7KowFR9g | 1998-05 | 13838
+- S046 | Steve Jobs introduces the Original iMac - Apple Special Event (1998) | https://www.youtube.com/watch?v=e6V9szuCYvc | 1998-05 | 3769
+- S047 | Steve Jobs Apple WWDC 1999 | https://www.youtube.com/watch?v=ztI4yfTwzjw | 1999-05 | 17618
+- S048 | Steve Jobs, 2000-1 Macworld SF Presentation | https://www.youtube.com/watch?v=kDy4tcOhsyU | 2000-01 | 19698
+- S049 | Macworld NY 2000 - Steve Jobs introduces the G4 Cube | https://www.youtube.com/watch?v=6PjjN4JJLBY | 2000-07 | 12777
+- S050 | Steve Jobs introduces OS X 10 1 - Seybold 2001 | https://www.youtube.com/watch?v=EV-fdzOq6uQ | 2001-09 | 15859
+- S051 | Steve Jobs introduces Original iPod - Apple Special Event (2001) | https://www.youtube.com/watch?v=32B16WY25GA | 2001-10-23 | 6176
+- S052 | Steve Jobs introduces iTunes Music Store   Apple Special Event 2003 | https://www.youtube.com/watch?v=bCpzfzHrNt4 | 2003-04-28 | 7441
+- S053 | Steve Jobs introduces OS X Panther  Power Mac G5  -  WWDC 2003 | https://www.youtube.com/watch?v=Ey6UfntyFiQ | 2003-06 | 17969
+- S054 | Apple WWDC 2004 | https://www.youtube.com/watch?v=x51L6hbIxr4 | 2004-06 | 15674
+- S055 | Steve Jobs, 2005-9 iPod nano Intro Presentation | https://www.youtube.com/watch?v=6S_wr4y2c08 | 2005-09 | 8029
+- S056 | Steve Jobs: Original Macbook Pro Preview - Apple Macworld San Francisco 2006 | https://www.youtube.com/watch?v=_dK0CZScPgc | 2006-01 | 11717
+- S057 | Apple WWDC 2006 Keynote | https://www.youtube.com/watch?v=9ipDYIUWt1s | 2006-08 | 12060
+- S058 | Apple Keynote 2007 Complete - iPhone | https://www.youtube.com/watch?v=VKpaK670U7s | 2007-01 | 11742
+- S059 | Apple WWDC 2007 | https://www.youtube.com/watch?v=ubm2dYzoDW8 | 2007-06 | 13320
+- S060 | Macworld San Francisco 2008 Keynote Address (MacBook Air & iTunes Move Rentals) by Steve Jobs | https://www.youtube.com/watch?v=i9XU6wk_mWY | 2008-01 | 10247
+- S061 | Apple Keynote 2008 Complete - iPhone 3G, iPhone OS & MobileMe. | https://www.youtube.com/watch?v=_X5xOI_qu9I | 2008-06 | 14404
+- S062 | 2009 Apple Special Event September 2009 | https://www.youtube.com/watch?v=G60tpj9QBnU | 2009-09 | 9484
+- S063 | Steve Jobs introduces the iPad - 2010 (full) | https://www.youtube.com/watch?v=zZtWlSDvb_k | 2010-01 | 12392
+- S064 | Apple Special Event 2010 - Steve Jobs introduces Apple TV 2 & Ping | https://www.youtube.com/watch?v=90BmxEpPRHM | 2010-09 | 9490
+- S065 | Apple Special Event 2nd March 2011 iPad 2 | https://www.youtube.com/watch?v=gIq0__oVLKs | 2011-03 | 10511
+- S066 | Apple WWDC 2011  Steve Jobs' last keynote | https://www.youtube.com/watch?v=zicXhcvV5SY | 2011-06 | 4310
+- S067 | Playboy Interview: Steve Jobs | https://web.archive.org/web/2016/http://reprints.longform.org/playboy-interview-steve-jobs | 1985-02 | 15353
+- S069 | The Entrepreneur of the Decade | https://web.archive.org/web/2015/http://www.inc.com/magazine/19890401/5602.html | 1989-04 | 6080
+- S070 | Steve Jobs speaks out - On the birth of the iPhone (1) - FORTUNE | https://web.archive.org/web/2012/http://money.cnn.com/galleries/2008/fortune/0803/gallery.jobsqna.fortune/index.html | 2008-03 | 724
+- S071 | Steve Jobs Triumph of the Nerds Lost Interview (1995) | https://www.youtube.com/watch?v=Bbwj58Xj2yI | 1995 | 12242
+- S073 | Steve Jobs interview at the 2010 D8 Conference | https://www.youtube.com/watch?v=c6nKI2At944 | 2010-06 | 8058
+- S075 | Macworld 1998: Steve Jobs talks about Apples return | https://www.youtube.com/watch?v=gdYiqVzPjAc | 1998-07 | 14550
+- S076 | Steve Jobs announces switch to Intel & Podcasting - WWDC (2005) | https://www.youtube.com/watch?v=VUlJi6jHhWo | 2005-06 | 8151
+- S077 | Steve Jobs introduces iPod mini  GarageBand - Macworld SF 2004 | https://www.youtube.com/watch?v=1mz9WzmMEHw | 2004-01 | 13834
+- S078 | Macworld 2001 San Francisco | https://www.youtube.com/watch?v=AnrM4n6S3CU | 2001-01 | 15841
+- S080 | Steve Jobs introduces iPhone 4 & FaceTime - WWDC (2010) | https://www.youtube.com/watch?v=OY3ltJL4AEw | 2010-06 | 13163
+- S081 | Apple Shareholder Event (1984) | https://www.youtube.com/watch?v=6mn75YUAH-M | 1984-01 | 7923
+- S082 | NeXT Product Demo, Steve Jobs | https://www.youtube.com/watch?v=v9zi0gooOLI | 1990 | 6326
+- S083 | NeXT, OpenStep and the return of Steve Jobs to Apple | https://www.youtube.com/watch?v=QhhFQ-3w5tE | 1997-01 | 6265
+- S087 | Apple Macworld 2001 New York | https://www.youtube.com/watch?v=6KJZLiic2F8 | 2001-07 | 15360
+- S088 | Steve Jobs introduces iTunes for Windows - Apple Special Event 2003 | https://www.youtube.com/watch?v=MvCJ613HORA | 2003-10 | 9598
+- S089 | Apple Music Event London 2004 | https://www.youtube.com/watch?v=LRhiDaPLRGQ | 2004-06 | 7880
+- S090 | 2006 Steve Jobs previews Apple TV Apple Special Event 2006 | https://www.youtube.com/watch?v=GtMQ2U3s0WY | 2006-09 | 9227

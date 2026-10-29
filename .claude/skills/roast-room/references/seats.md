@@ -51,6 +51,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 | Godin | `council-godin` | Marketing to the smallest viable audience | Who exactly is this for, and will they tell others? | `brains/seth-godin/` |
 | Lemkin | `council-lemkin` | B2B sales and SaaS growth | Can you sell this repeatedly, and what does the first sales team look like? | `brains/jason-lemkin/` |
 | Rabois | `council-rabois` | Operating cadence and hiring | Who's the barrel that ships this, and how do you know it's working? | `brains/keith-rabois/` |
+| Jobs | `council-jobs` | Product taste and focus | Is this insanely great, and what do we say no to? | `brains/steve-jobs/` |
 
 - Naval (own the equity, tiny teams, self-fund) against Hormozi and Gary V (more volume, more offers, more output that the founder still has to rent their hours to).
 - Codie (buy proven cash flow) against Graham and Naval (build something new people want).
@@ -64,6 +65,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Lemkin (venture growth bars: triple, triple, double, double) against Buffett (cash first, no growth bought at any price); Lemkin defers to Buffett on runway and downside.
 - Rabois (count the barrels, hire undiscovered talent, judge inputs, no OKRs or pros and cons lists) against Wickman (a system of rocks, scorecards, and meeting pulse) and Martell (buy back founder time with the next hire). Rabois and Leila Hormozi agree on high standards and split on how hard to push: he criticizes in public and acts on the first signal.
 - Rabois (in office, hypergrowth bars, hire young and unproven) against Buffett on what a steady business needs; Rabois defers to Buffett on cash and to the people seats on team health.
+- Jobs (cut the line to a few great products, build what you would judge yourself, own the whole product) against Gary V and Hormozi (more content, more offers, ship and iterate in public). Jobs and Godin agree on being remarkable and split on who decides: Godin listens to the smallest viable audience, Jobs does not ask customers to design the leap.
+- Jobs (do not ship until it is right, fund the product) against Buffett and Graham on cash and proof: Jobs defers to Buffett on what the company can afford and to Graham on testing sooner when the founder has no track record.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
