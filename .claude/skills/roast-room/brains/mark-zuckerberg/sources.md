@@ -1,0 +1,87 @@
+# Sources: Mark Zuckerberg
+
+81 sources (13 web, 68 video), 904,325 words. Dates are recording dates, corrected by hand from content; S047 (about 2017) and S020 and S021 (September 2024) are estimates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Mark Zuckerberg's Letter to Investors: 'The Hacker Way' | https://www.wired.com/2012/02/zuck-letter/ | 2012-02-01 | 2211
+- S003 | Four Ideas to Regulate the Internet | https://about.fb.com/news/2019/03/four-ideas-regulate-internet/ | 2019-03-30 | 1073
+- S004 | Mark Zuckerberg Stands for Voice and Free Expression | https://about.fb.com/news/2019/10/mark-zuckerberg-stands-for-voice-and-free-expression/ | 2019-10-17 | 5193
+- S005 | Founder's Letter, 2021 / Meta | https://about.fb.com/news/2021/10/founders-letter/ | 2021-10-28 | 1642
+- S006 | Update on Meta’s Year of Efficiency | https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/ | 2023-03-14 | 2388
+- S007 | Open Source AI is the Path Forward | https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/ | 2024-07-23 | 2325
+- S008 | Personal Superintelligence | https://www.meta.com/superintelligence/ | 2025-07-30 | 624
+- S009 | Full transcript: Facebook CEO Mark Zuckerberg on Recode Decode | https://www.vox.com/2018/7/18/17575158/mark-zuckerberg-facebook-interview-full-transcript-kara-swisher | 2018-07-18 | 14342
+- S010 | Mark Zuckerberg on Facebook’s hardest year, and what comes next | https://www.vox.com/2018/4/2/17185052/mark-zuckerberg-facebook-interview-fake-news-bots-cambridge | 2018-04-02 | 6238
+- S011 | “Instagram can hurt us”: Mark Zuckerberg emails outline plan to neutralize competitors | https://www.theverge.com/2020/7/29/21345723/facebook-instagram-documents-emails-mark-zuckerberg-kevin-systrom-hearing | 2020-07-29 | 1884
+- S012 | Mark Zuckerberg's speech as written for Harvard's Class of 2017 | https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/ | 2017-05-25 | 3605
+- S013 | Joe Rogan Experience #1863 - Mark Zuckerberg | https://www.youtube.com/watch?v=0XR4x1ssblQ | 2022-08-25 | 34997
+- S014 | Joe Rogan Experience #2255 - Mark Zuckerberg | https://www.youtube.com/watch?v=7k1ehaE0bdU | 2025-01-10 | 34298
+- S015 | Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse / Lex Fridman Podcast #267 | https://www.youtube.com/watch?v=5zOHSysMmH0 | 2022-02-26 | 21174
+- S016 | Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp / Lex Fridman Podcast #383 | https://www.youtube.com/watch?v=Ff4fRgnuFgQ | 2023-06-08 | 30100
+- S017 | Mark Zuckerberg: First Interview in the Metaverse / Lex Fridman Podcast #398 | https://www.youtube.com/watch?v=MVYrJJNdrEg | 2023-09-28 | 12004
+- S018 | Mark Zuckerberg: Llama 3, $10B models, Caesar Augustus, & 1 GW datacenters | https://www.youtube.com/watch?v=bc6uFV9CJGg | 2024-04-18 | 11563
+- S019 | Mark Zuckerberg: AI will write most Meta code in 18 months | https://www.youtube.com/watch?v=rYXeQbTuVl0 | 2025-04-29 | 11217
+- S020 | The Mark Zuckerberg Interview | https://www.youtube.com/watch?v=QciJ9ubeLQk | 2024-09 | 16751
+- S021 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | https://www.youtube.com/watch?v=KVc7EVfWq3M | 2024-09 | 26822
+- S022 | A conversation with Mark Zuckerberg | https://www.youtube.com/watch?v=gF12Xn3C-0c | 2025-05-07 | 9913
+- S023 | Zuckerberg’s $100 Billion Bet | https://www.youtube.com/watch?v=XfdIhd1g6EI | 2026-10-12 | 26586
+- S024 | Mark Zuckerberg talks to Tyler Cowen (Economist), and Patrick Collison (CEO of Stripe) | https://www.youtube.com/watch?v=OuvrZFJLXSk | 2019-11-25 | 13448
+- S025 | Mark Zuckerberg / This Past Weekend w/ Theo Von #579 | https://www.youtube.com/watch?v=zbfOkhrgxH0 | 2025-04-28 | 19972
+- S026 | Mark Zuckerberg on Business Strategy, Parenting, Religion, and More | https://www.youtube.com/watch?v=x-kALfaofek | 2022-03 | 20163
+- S027 | Mark Zuckerberg on Threads, Elon Musk, AI, the Quest 3, and more | https://www.youtube.com/watch?v=9aCg7jH4S1w | 2023-09-27 | 13974
+- S028 | Why Mark Zuckerberg thinks AR glasses will replace your phone | https://www.youtube.com/watch?v=8dVba_xm4MQ | 2024-09-25 | 11983
+- S029 | Mark Zuckerberg on the Quest Pro, metaverse, Elon's Twitter takeover and more | https://www.youtube.com/watch?v=gV50hpSKHFQ | 2022-10-11 | 10952
+- S030 | Mark Zuckerberg on the AI bubble and Meta's new display glasses | https://www.youtube.com/watch?v=23FyskyFoP8 | 2025-09-18 | 16382
+- S031 | Mark Zuckerberg on how Meta's Muse AI agent will make people money | https://www.youtube.com/watch?v=Lx8lrn-cytc | 2026-09-08 | 15443
+- S032 | The Future Mark Zuckerberg Is Trying To Build | https://www.youtube.com/watch?v=oX7OduG1YmI | 2024-09-25 | 8746
+- S033 | Mark Zuckerberg Takes On Apple Fanboys, Tech Layoffs, Raising Cattle & More | https://www.youtube.com/watch?v=xQqsvRHjas4 | 2024-02-16 | 9433
+- S034 | Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More | https://www.youtube.com/watch?v=m88OV10vRLA | 2024-06-27 | 7489
+- S035 | Mark Zuckerberg on Llama 3.1, Open Source, AI Agents, Safety, and more | https://www.youtube.com/watch?v=Vy3OkbtUa5k | 2024-07-23 | 7247
+- S036 | Mark Zuckerberg on AI Glasses, Superintelligence, Neural Control, and More | https://www.youtube.com/watch?v=WuTJkFvw70o | 2025-09-18 | 8837
+- S037 | Mark Zuckerberg on Muse, Audio-Only Glasses and Killer AI | https://www.youtube.com/watch?v=2cg56uF4hlc | 2026-09-23 | 7862
+- S038 | Mark Zuckerberg on AI's Job Impact, Government Regulation, & How Meta Glasses Changed His Routine | https://www.youtube.com/watch?v=u-vH31VD7GE | 2026-06-23 | 9776
+- S040 | Facebook's Mark Zuckerberg on Studio 1.0 | https://www.youtube.com/watch?v=RYZJKyoAFlA | 2015-03 | 4310
+- S041 | AI and The Next Computing Platforms With Jensen Huang and Mark Zuckerberg | https://www.youtube.com/watch?v=w-cmMcMZoZ4 | 2024-07-29 | 10491
+- S042 | Llamacon 2025 - Conversation with Mark Zuckerberg and Satya Nadella | https://www.youtube.com/watch?v=WaJOONFllLc | 2025-04-29 | 6215
+- S043 | Llamacon 2025 - Keynote + Conversation with Mark Zuckerberg and Ali Ghodsi | https://www.youtube.com/watch?v=1VUfyfeeURw | 2025-04-29 | 12628
+- S044 | Mark Zuckerberg & Priscilla Chan: How AI Will Cure All Disease | https://www.youtube.com/watch?v=YnV8pgHtO5Y | 2025-11-06 | 8799
+- S045 | “Curing All Disease by next century is too conservative" - Mark Zuckerberg | https://www.youtube.com/watch?v=u8cYwaLzN-k | 2026-06-10 | 11255
+- S046 | Mark Zuckerberg & Yuval Noah Harari in Conversation | https://www.youtube.com/watch?v=Boj9eD0Wug8 | 2019-04 | 14734
+- S047 | Meta's Mark Zuckerberg: Imperfect is perfect | https://www.youtube.com/watch?v=IIjkGKxt2fE | 2017 | 5703
+- S048 | Mark Zuckerberg on the Future of Social Media | https://www.youtube.com/watch?v=5wk5WPONF7c | 2022-11-30 | 5480
+- S049 | Charlie Rose - Interview with Facebook Leadership  Mark Zuckerberg, CEO, Sheryl Sandberg, COO | https://www.youtube.com/watch?v=eqxNtEc4rzc | 2011-11-07 | 11567
+- S050 | CS50 Lecture by Mark Zuckerberg - 7 December 2005 | https://www.youtube.com/watch?v=xFFs9UgOAlE | 2005-12-07 | 11358
+- S051 | james-w-breyer-mark-zuckerberg-interview-stanford-univ-26-oct-2005 | https://www.youtube.com/watch?v=AKjb9HV6MQU | 2005-10-26 | 10747
+- S052 | Mark Zuckerberg at Startup School 2012 | https://www.youtube.com/watch?v=5bJi7k-y1Lo | 2012-10-20 | 7345
+- S053 | Mark Zuckerberg at Startup School 2013 | https://www.youtube.com/watch?v=MGsalg2f9js | 2013-10-19 | 7811
+- S054 | Mark Zuckerberg : How to Build the Future | https://www.youtube.com/watch?v=Lb4IcGF5iTQ | 2016-08 | 5661
+- S055 | Mark Zuckerberg, "A Conversation with Mark Zuckerberg" - Web 2.0 Summit 2010 | https://www.youtube.com/watch?v=Czw-dtTP6oU | 2010-11-15 | 13858
+- S056 | Web 2.0 Summit 08:  Mark Zuckerberg (Facebook), John Battell | https://www.youtube.com/watch?v=68iAshnO_4M | 2008-11 | 7586
+- S057 | DLD09 - David Kirkpatrick meets Mark Zuckerberg | https://www.youtube.com/watch?v=6PqIzE1NYqU | 2009-01 | 8091
+- S058 | CHM Revolutionaries: Facebook Effect- Author David Kirkpatrick & FB's CEO Mark Zuckerberg | https://www.youtube.com/watch?v=_TuFkupUn7k | 2010-07-21 | 18801
+- S059 | A Conversation with Mark Zuckerberg | https://www.youtube.com/watch?v=uHk2WfL5Gs4 | 2019-06-26 | 8565
+- S062 | Facebook Founder Mark Zuckerberg First Public Q&A ! | https://www.youtube.com/watch?v=x3YWIgujmcg | 2014-11-06 | 13679
+- S063 | Facebook Founder Mark Zuckerberg 2nd Public Q&A ! | https://www.youtube.com/watch?v=BdanYRnrQOE | 2014-12-11 | 12611
+- S064 | Facebook CEO Mark Zuckerberg’s Townhall Q&A at IIT Delhi - Full Video | https://www.youtube.com/watch?v=mIN_Tp3Nxi0 | 2015-10-28 | 11218
+- S065 | Mark Zuckerberg: Live from our Townhall Q&A in Rome. Comment to ask a question! - 1 hour | https://www.youtube.com/watch?v=4yA-JPnxUF4 | 2016-08-29 | 10854
+- S066 | Mark Zuckerberg Townhall Q&A at Facebook (FULL VIDEO) | https://www.youtube.com/watch?v=7QR2kK8mmX4 | 2015-09-15 | 11473
+- S067 | Q&A with Mark Zuckerberg | https://www.youtube.com/watch?v=MtMIvu5zaRU | 2016-06 | 11660
+- S068 | Q&A with Mark Zuckerberg 2015 | https://www.youtube.com/watch?v=qHaMdNKxLzI | 2015-05-14 | 12634
+- S069 | F8 2011 Keynote | https://www.youtube.com/watch?v=1OQQ4E2k0Mk | 2011-09-22 | 16815
+- S070 | f8 Keynote | https://www.youtube.com/watch?v=0onciIB-ZJA | 2014-04-30 | 10346
+- S071 | F8 2015 Day 1 Opening Keynote | https://www.youtube.com/watch?v=50x0JxhtEIA | 2015-03-25 | 8680
+- S072 | F8 2018 Day 1 Keynote | https://www.youtube.com/watch?v=ldtuSYqgPLQ | 2018-05-01 | 17557
+- S073 | F8 2019 Day 1 Keynote | https://www.youtube.com/watch?v=xK0RwubFi-U | 2019-04-30 | 14983
+- S074 | Mark Zuckerberg at the Mobile World Congress 2014 ( Full Video ) | https://www.youtube.com/watch?v=VHwkHZpXqWc | 2014-02-24 | 9818
+- S075 | Mark Zuckerberg's Speech  At The World's Biggest Wireless Phone Fair During a Q&A | https://www.youtube.com/watch?v=bTjABZc4wyU | 2015-03-02 | 11360
+- S076 | Oculus Connect 3 Opening Keynote: Mark Zuckerberg | https://www.youtube.com/watch?v=NLnk2cCirQM | 2016-10-06 | 4227
+- S077 | The Metaverse and How We'll Build It Together -- Connect 2021 | https://www.youtube.com/watch?v=Uvufun6xer8 | 2021-10-28 | 12616
+- S078 | Meta Connect 2025 Keynote | https://www.youtube.com/watch?v=Q9eLemEd9FY | 2025-09-20 | 4678
+- S079 | Meta Connect Keynote 2026 | https://www.youtube.com/watch?v=SdKFDIAGF24 | 2026-09-23 | 8186
+- S080 | Meta Platforms (NASDAQ: META) CEO Mark Zuckerberg Q4 2022 Earnings Call | https://www.youtube.com/watch?v=sIcN2SsjjJo | 2023-02-01 | 10224
+- S081 | $META Meta Platforms Q4 2023 Earnings Conference Call | https://www.youtube.com/watch?v=CUlmub5oDrk | 2024-02-01 | 10396
+- S082 | $META Meta Platforms Q2 2025 Earnings Conference Call | https://www.youtube.com/watch?v=AIT3gSGwe14 | 2025-07-30 | 10218
+- S083 | $META Meta Platforms Q2 2026 Earnings Conference Call | https://www.youtube.com/watch?v=bxEDUjatPwc | 2026-07-29 | 11132
+- S084 | A Privacy-Focused Vision for Social Networking / Facebook | https://web.archive.org/web/2019/https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/ | 2019-03-06 | 3445
+- S085 | Building Global Community | https://web.archive.org/web/2017/https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634 | 2017-02-16 | 5853

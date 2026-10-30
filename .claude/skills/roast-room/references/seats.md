@@ -70,6 +70,8 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Jobs (do not ship until it is right, fund the product) against Buffett and Graham on cash and proof: Jobs defers to Buffett on what the company can afford and to Graham on testing sooner when the founder has no track record.
 - Gates (license widely, win the developers, bet on where the technology is in ten years) against Jobs (control the whole product, few great products). The open platform against the integrated product is their oldest argument.
 - Gates (long technology bets, patience for a decade) against Buffett, Hormozi, and Gary V on time horizon: they want cash and results this year. Gates agrees with Buffett on keeping a year of cash and defers to him on what the company can survive.
+- Zuckerberg (read the rival before it is big, then buy it, build the better version, or open the layer it charges for) against Godin (be remarkable for the smallest audience, ignore the competition) and Jobs (taste and the closed, integrated product). Zuckerberg and Gates agree on owning the platform and split on open versus closed.
+- Zuckerberg (underbuilding against a threat is the bigger risk, keep control so nobody can stop the bet) against Buffett (cash first, survive being wrong). Zuckerberg defers to Buffett on what a company without a cash engine can afford, and to the people seats on delegation.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
