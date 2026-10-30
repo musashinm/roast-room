@@ -1,0 +1,16 @@
+# The room in a container: the repo is mounted read-only, so code, roster and portrait changes go live
+# without a rebuild; sessions/ is writable for the API runner. Edits to .env need `docker compose restart`.
+services:
+  roast-room:
+    image: node:22-alpine
+    working_dir: /roast-room
+    command: ["node", "app/server.mjs"]
+    environment:
+      ROAST_ROOM_HOST: 0.0.0.0
+    ports:
+      - "127.0.0.1:4730:4730"
+    volumes:
+      - .:/roast-room:ro
+      - ./sessions:/roast-room/sessions
+    init: true
+    restart: unless-stopped

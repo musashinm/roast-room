@@ -46,6 +46,8 @@ Or open Claude Code anywhere and say: "Clone github.com/nateherkai/roast-room an
 4. Answer the Chair's questions, then watch the council argue it out in the room.
 5. When the verdict lands, click **Download PDF**.
 
+To keep the room running in Docker instead: `docker compose up -d`. It restarts on its own after a crash or a reboot, as long as Docker Desktop starts when you sign in. Logs: `docker compose logs -f`. After editing `.env`, run `docker compose restart`.
+
 You also get a short verdict in Claude Code, and the full report lands in `sessions/<date>-<decision>/verdict.md`.
 
 ## What to put in your question
